@@ -1,0 +1,216 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Vana s výhledem",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Martin Němec",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-11-04T00:00:00.000Z",
+    "published": "2021-10-29T07:27:31.000Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.2",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vana_s_vyhledem_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vana_s_vyhledem_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vana_s_vyhledem_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vana_s_vyhledem_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vana_s_vyhledem_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vana_s_vyhledem_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vana_s_vyhledem_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vana_s_vyhledem_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vana_s_vyhledem_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vana_s_vyhledem_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vana_s_vyhledem_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vana_s_vyhledem_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vana_s_vyhledem_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vana_s_vyhledem_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vana_s_vyhledem_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vana_s_vyhledem_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vana_s_vyhledem_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vana_s_vyhledem_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vana_s_vyhledem_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vana_s_vyhledem_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vana_s_vyhledem_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vana_s_vyhledem_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/vana_s_vyhledem_023.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/MZK_logo_tyrkys_transparent.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_vana_s_vyhledem.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Anděl",
+      "href": "OEBPS/Text/vana_s_vyhledem_008.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "Anna samodruhá",
+      "href": "OEBPS/Text/vana_s_vyhledem_009.xhtml#_idParaDest-2"
+    },
+    {
+      "title": "Beat sám",
+      "href": "OEBPS/Text/vana_s_vyhledem_010.xhtml#_idParaDest-3"
+    },
+    {
+      "title": "Dřez a pěnkavy",
+      "href": "OEBPS/Text/vana_s_vyhledem_011.xhtml#_idParaDest-4"
+    },
+    {
+      "title": "Dveře",
+      "children": [
+        {
+          "title": "První otevření dveří (sen)",
+          "href": "OEBPS/Text/vana_s_vyhledem_012.xhtml#_idParaDest-6"
+        },
+        {
+          "title": "Druhé otevření dveří (1967)",
+          "href": "OEBPS/Text/vana_s_vyhledem_012.xhtml#_idParaDest-7"
+        },
+        {
+          "title": "Třetí otevření dveří (dnes)",
+          "href": "OEBPS/Text/vana_s_vyhledem_012.xhtml#_idParaDest-8"
+        }
+      ],
+      "href": "OEBPS/Text/vana_s_vyhledem_012.xhtml#_idParaDest-5"
+    },
+    {
+      "title": "Hřích",
+      "href": "OEBPS/Text/vana_s_vyhledem_013.xhtml#_idParaDest-9"
+    },
+    {
+      "title": "Krabí hrad",
+      "href": "OEBPS/Text/vana_s_vyhledem_014.xhtml#_idParaDest-10"
+    },
+    {
+      "title": "Lázně Rotstein",
+      "href": "OEBPS/Text/vana_s_vyhledem_015.xhtml#_idParaDest-11"
+    },
+    {
+      "title": "Most",
+      "href": "OEBPS/Text/vana_s_vyhledem_016.xhtml#_idParaDest-12"
+    },
+    {
+      "title": "O krvácejícím stromku a barborkách",
+      "href": "OEBPS/Text/vana_s_vyhledem_017.xhtml#_idParaDest-13"
+    },
+    {
+      "title": "Raněná rytířka",
+      "href": "OEBPS/Text/vana_s_vyhledem_018.xhtml#_idParaDest-14"
+    },
+    {
+      "title": "Rock and roller",
+      "href": "OEBPS/Text/vana_s_vyhledem_019.xhtml#_idParaDest-15"
+    },
+    {
+      "title": "Salon v ulici des Moulins",
+      "href": "OEBPS/Text/vana_s_vyhledem_020.xhtml#_idParaDest-16"
+    },
+    {
+      "title": "Sulfur s. r. o.",
+      "href": "OEBPS/Text/vana_s_vyhledem_021.xhtml#_idParaDest-17"
+    },
+    {
+      "title": "Vana s výhledem",
+      "href": "OEBPS/Text/vana_s_vyhledem_022.xhtml#_idParaDest-18"
+    }
+  ]
+}
