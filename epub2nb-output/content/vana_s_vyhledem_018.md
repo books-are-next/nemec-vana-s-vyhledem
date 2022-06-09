@@ -3,21 +3,19 @@ title: Raněná rytířka
 contentType: prose
 ---
 
-Dívka:  
+_Dívka:  
 Jdi dál a na jiného dýchej!  
 Jen jdi, ty kostlivče tak hrůzně nahý!  
 Jsem ještě mladá, víš, můj drahý?  
-Pokračuj v cestě a mě se nedotýkej.
+Pokračuj v cestě a mě se nedotýkej._
 
-Smrt:  
+_Smrt:  
 Podej mi ruku, ty stvoření tak ladné!  
 Jsem přítel a můj dotek nemučí.  
 Poznáš, že byť mám kosti chladné,  
-slastně se usíná v mém náručí!
+slastně se usíná v mém náručí!_
 
-Matthias Claudius: _Smrt a dívka_, přeložil Jiří Popel
-
-  
+> Matthias Claudius: _Smrt a dívka_, přeložil Jiří Popel
 
 Bylo zimní poledne bez slunce. Nekonečnou zasněženou plání klopýtala raněná dívka. Bílá zem přecházela bez varování v bílé nebe a ona ztrácela představu o tom, kde je nahoře a kde je dole.
 

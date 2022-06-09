@@ -3,8 +3,6 @@ title: Dveře
 contentType: prose
 ---
 
-  
-
 Dveře. Okované dveře. Hrubé fošny pospojované hrubým kováním, oboje dlouhými léty proměněno bezmála v kámen. Kov a dřevo, uondané věky a s kresbou zelenkavé plísně ve spárách, se spojily v jedno. Dřevo a kov, oboje prorostlé neoddělitelně a trvale. Dřevo nezetlelo a kov nepodlehl rzi. Minerály z vápencových kamenů, které tvoří strop a stěny sklepní místnosti, se vsákly do pórů dubových prken a pokryly ochrannou vrstvou železné kování. Věkem zohavené i zkrásnělé dveře se staly pevnějšími, než kdysi bývaly, a kůže patiny, kterou je potáhly nesčetné roky, jim dodala vzezření i podstatu nesmírné a soustředěné odolnosti.
 
 Byly zamčené. Proti takovým dveřím by nebylo účelné vyrazit ramenem. A vykopnout je prudce nohou, jak tomu bývá v akčních filmech, by znamenalo obětovat zdravý kotník ve prospěch chorobného sebevědomí.
@@ -25,9 +23,7 @@ Jako by dveře našeho tehdejšího sklepa byly pro zamčení zkrátka stvořen�
 
 Postál jsem chvíli u těch zamčených dveří a pak odešel.
 
-První otevření dveří (sen)
-
-  
+### První otevření dveří (sen)
 
 Lusknutím prstů se dveře otevřely. Za nimi se prudce rozhrnul těžký závěs a já, doprovázen mužem, který je lusknutím prstů otevřel, jsem vstoupil na ochoz nad středověkým náměstíčkem.
 
@@ -51,9 +47,7 @@ Ve čtvrtém patře našeho domu žil a tvořil malíř Jan Slavíček. Při je
 
 Kolem jeho Prahy jsem došel až ke dveřím. K téměř kamenným dveřím. K zamčeným dveřím.
 
-Druhé otevření dveří (1967)
-
-  
+### Druhé otevření dveří (1967)
 
 „Křídou, kterou sem vytáh z kapsy kraťasů, sem začal na dveře kreslit panáka. Jen takovej vobrys panáka. Na dveřích kolem kliky a zámku bylo plno hlubokejch světlejch rejhanců a škrábanců, protože před třema dnama sme se namísto doučováku se spolužákem Jendou Kohoutem pokoušeli o jejich násilný otevření. Teda s kulovým efektem. Jenda měl nejdřív asi deset rezavejch klíčů, sám tomu ale asi moc nevěřil, že budou k něčemu, protože měl taky rezavou kramli. Nešlo to ale ani s klíčema a ani s tou jeho kramlí, i když to ho bavilo mnohem víc. Nešlo to ani se sochorem, kterej sme sem přitáhli z Petřína. Byl to teda takovej kůl, jako si myslim, že by měl vypadat sochor. Dveře se vůbec ani nepohnuly! Ty škrábance na nich se spíš tak jako eště víc zdůraznily, že se hned tak nedaj, jako to bejvá u hrdinů třeba z různejch válek a stejně tak s jejich jizvama. Tak sem se večer před spaním rozhod pro magickej rituál.
 
@@ -93,9 +87,7 @@ A zbyl tu klíč! Byl nechtěně a neočekávaně vypuštěn během stěhován
 
 Stěhováci obdrželi peníze na pivo a já půl hodiny na svou poslední výpravu do gotického podzemí našeho domu. Na výpravu, která nemá být snem ani horečnou vzpomínkou dítěte.
 
-Třetí otevření dveří (dnes)
-
-  
+### Třetí otevření dveří (dnes)
 
 Nebyl jsem tu dlouho. Celý prostor sklepa se mi zdá mnohem menší a méně tajemný než ve vzpomínkách. Hned za dveřmi sfouknu zapalovač a otáčím vypínačem. Nemohu se rozpomenout, jestli tu dřív na stropě byla ta pletivem chráněná světla a pouze jsem je v rámci dobrodružství ignoroval nebo na ně zapomněl. Světlo je tu sice nanicovaté, ale vidět je vlastně do všech koutů. Žárovky vydávají hmyzí zvuk.
 

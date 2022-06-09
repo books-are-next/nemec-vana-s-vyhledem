@@ -3,8 +3,6 @@ title: "O\_krvácejícím stromku a\_barborkách"
 contentType: prose
 ---
 
-  
-
 Z městečka, kde má autobus konečnou, to je daleko a cesta, jak se zdá, nebyla několik dnů protažená. Nohy se boří do čerstvého sněhu, takže se nedá jít moc rychle.
 
 Prosincové nebe je studené jako mramor a nad horizontálou lesa, který temnou náručí objímá zasněženou krajinu, visí nehybná a nelaskavá bulva slunce. Zdá se mi, že mě to nemrkající krhavé oko pozoruje. Že pozoruje jenom mě. Přidávám do kroku. Za chvíli vejdu do stínu mezi stromy a ztratím tu zlou hvězdu z dohledu. Vlastně ona ztratí z dohledu mě.

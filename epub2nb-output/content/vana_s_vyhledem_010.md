@@ -3,8 +3,6 @@ title: Beat sám
 contentType: prose
 ---
 
-  
-
 Poslední kilometry úzkou silnicí lemovanou jeřáby šel už pěšky. Nebylo koho stopnout…
 
 Ticho, kam až ucho doslechlo. Pro člověka z velkého města zkušenost srovnatelná s pocity biedermeierské slečinky vržené do kotle koncertujících Prodigy. Ono ticho může bolet, může být agresivní a třeba i ohlušující. Zejména v téhle šumavsky výstřední podobě. Pro městského člověka by mělo být alespoň trochu zředěné vzdálenou tramvají, zašmudlané jódlováním nočních opilců nebo rozostřené všudypřítomným šuměním pouličních lamp. Čeho je ale moc, toho je pak už příliš. To on dobře ví! Všeho bylo posledních dvacet let moc a z nich těch posledních pár už opravdu příliš!

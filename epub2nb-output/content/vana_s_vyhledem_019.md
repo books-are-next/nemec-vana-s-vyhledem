@@ -3,23 +3,23 @@ title: Rock and roller
 contentType: prose
 ---
 
-(workshop II)
+**(workshop II)**
 
-„Vzala jsem si už druhej prášek na hlavu. Teda ne jako místo čepice, ale že mě bolí, víš?“ řekla Naomi do telefonu. Neklan se tomu zachechtal, a protože jako obyčejně při volání jedl jablko, strašně se zakuckal. Jako vždy, když mu připadala vtipná, což bylo vlastně pokaždé, kdy chtěla. Na nižšího poddůstojníka, který odposlouchával jejich rozhovor, to působilo jako technická závada a poklepal prstem střídavě na pravou i levou chlopeň sluchátek. Oba milenci věděli, že mají napíchnutý aparát, a tak si v podobných nekonečných telefonátech libovali se sadistickou rozkoší. Pro pracovní účely používali samozřejmě linku, o jejíž existenci neměl sledovací úřad ponětí. Mobilní telefony byly dávno minulostí.
+_„Vzala jsem si už druhej prášek na hlavu. Teda ne jako místo čepice, ale že mě bolí, víš?“ řekla Naomi do telefonu. Neklan se tomu zachechtal, a protože jako obyčejně při volání jedl jablko, strašně se zakuckal. Jako vždy, když mu připadala vtipná, což bylo vlastně pokaždé, kdy chtěla. Na nižšího poddůstojníka, který odposlouchával jejich rozhovor, to působilo jako technická závada a poklepal prstem střídavě na pravou i levou chlopeň sluchátek. Oba milenci věděli, že mají napíchnutý aparát, a tak si v podobných nekonečných telefonátech libovali se sadistickou rozkoší. Pro pracovní účely používali samozřejmě linku, o jejíž existenci neměl sledovací úřad ponětí. Mobilní telefony byly dávno minulostí._
 
-Byl hezký letní den a Naomi s Neklanem chtěli odpoledne trávit někde u řeky. To se jim nakonec podařilo.
+_Byl hezký letní den a Naomi s Neklanem chtěli odpoledne trávit někde u řeky. To se jim nakonec podařilo._
 
 „Píšu naprostý bláboly. Vůbec mi to nejde! Potřebuju hned žďabec rolleru nebo to nedodělám… Do hajzlu!“ zasténal autor příběhu. „Natož pak do večera,“ zavtipkoval zoufale.
 
 Dávku už neměl nejméně sedm hodin, a tak se k němu nezadržitelně jako bezdomovec, kterému z neopatrnosti pohlédnete do očí, nebo jako policajt, kterému z opatrnosti nepohlédnete do očí, dostavoval absťák. A jak své absťáky znal, podle chůze, podle šátrání na chodbě, podle způsobu, jakým otvírají dveře… Věděl, že tohle bude teda opravdu Pan Absťák a že se nenechá uchlácholit mazlením s cigaretou ani obcováním s kořalkou. Dokonce ani grupáčem s cigaretami, kořalkou a extází se nenechá uchlácholit. Zkusil psát dál:
 
-Hodinu poté v bytě Naomi zanotoval Marseillaisu druhý aparát. Dívka ztlumila řvoucí nahrávku El Carrolls Revival a zvedla sluchátko. „Máme práci, lásko! V kolik u mě můžeš bejt?“ řekl Neklan na druhém konci a otazník za vyřčenou větou následoval vykřičník hlasitého kousnutí do jablka.
+_Hodinu poté v bytě Naomi zanotoval Marseillaisu druhý aparát. Dívka ztlumila řvoucí nahrávku El Carrolls Revival a zvedla sluchátko. „Máme práci, lásko! V kolik u mě můžeš bejt?“ řekl Neklan na druhém konci a otazník za vyřčenou větou následoval vykřičník hlasitého kousnutí do jablka._
 
-„Ve tři,“ řekla Naomi otráveně. „A dělat se mi dneska chce, asi jako se mi chce chcát, když jsem čerstvě vyčuraná,“ přidala ještě dětsky lítostivým hlasem, takže Neklan kolem sebe v okruhu dvou metrů rozprášil jablečné pyré.
+_„Ve tři,“ řekla Naomi otráveně. „A dělat se mi dneska chce, asi jako se mi chce chcát, když jsem čerstvě vyčuraná,“ přidala ještě dětsky lítostivým hlasem, takže Neklan kolem sebe v okruhu dvou metrů rozprášil jablečné pyré._
 
-Za oknem Neklanova přízemního bytu se míhají veliké ohyzdné náklaďáky s vyceněnými chladiči a vytřeštěnými reflektory. Syčí vztekem a bolestí, rychle rezavějí a pak intuitivně vyhledávají hřbitovy aut.
+_Za oknem Neklanova přízemního bytu se míhají veliké ohyzdné náklaďáky s vyceněnými chladiči a vytřeštěnými reflektory. Syčí vztekem a bolestí, rychle rezavějí a pak intuitivně vyhledávají hřbitovy aut._
 
-Neklan si vyndal oči a navyklým pohybem je nahradil těmi na noční vidění, ukazováček pravé ruky vyměnil za nabitý. Chystal se na lov. Naomi si… Naomi si přiložila pod nehet malíčku aplikátor rolleru…
+_Neklan si vyndal oči a navyklým pohybem je nahradil těmi na noční vidění, ukazováček pravé ruky vyměnil za nabitý. Chystal se na lov. Naomi si… Naomi si přiložila pod nehet malíčku aplikátor rolleru…_
 
 „Aplikátor rolleru?!“ vyděsil se autor. „Panebože! Píšu nějaký zkurvený umění nebo co to je?!“ zavyl. „Mám absťák velkej jako dýně z Černobylu a intelektuální ambice vhodný tak k vytvoření česko-českého slovníku slova ZÁVISLOST. Oči na noční vidění jsou sice docela slušný, ale má se to přece stát v plným slunečním světle, ne? Odpoledne! Večer vraždí každej ňouma z déčkovýho thrilleru. Musím se nakopnout! Nemyslí mi to!“ pomyslel si bezradně.
 
@@ -33,11 +33,11 @@ Autor vstal od stolu, přešel k velkému zrcadlu a pohlédl s opovržením n
 
 V zrcadle nad hlavou toho nevděčného feťáka a zloděje životních románů uviděl na zdi rozvětvenou prasklinu, které si nikdy dřív nevšiml. „Musím zavolat malíře a nechat znovu vybílit,“ řekl si v duchu, napodobuje tím celkem věrohodně rozumného člověka. Prasklina se náhle roztřepaně pohnula a odklátila se na nerovných a nestejně dlouhých sedmi nohách pryč z jeho zorného pole. Netroufl se otočit. Třeba se zrcadlo zmýlilo? Nakonec, nebylo by to poprvé… Chloupky na autorově zátylku se naježily poryvem hrůzy. Zmobilizoval veškerou svou nanicovatou sílu a namířil si to zpátky k psacímu pultu.
 
-Naomi se před domem usmála na dnešního zvláště neobratného sledkyna s poněkud odbytým polyesterovým obličejem. Chudák se, když ji uviděl, nenápadně otočil k výkladní skříni s rentgenovými snímky ryb a drůbeže.
+_Naomi se před domem usmála na dnešního zvláště neobratného sledkyna s poněkud odbytým polyesterovým obličejem. Chudák se, když ji uviděl, nenápadně otočil k výkladní skříni s rentgenovými snímky ryb a drůbeže._
 
-Když se po chvilce vzpamatoval, byla ulice bez Naomi a on bez vyhlídky na restart do příštího dne.
+_Když se po chvilce vzpamatoval, byla ulice bez Naomi a on bez vyhlídky na restart do příštího dne._
 
-Odešel k řece nakrmit racky svými implantáty.
+_Odešel k řece nakrmit racky svými implantáty._
 
 „Je zle!“ pomyslel si autor zděšeně. „Rentgeny ryb a drůbeže? Píšu obludný bludy a mám to do večera odevzdat! Musím si nezbytně střelit nebo budu příští knížku psát oharkem cigára na erární zeď!“
 
@@ -45,31 +45,31 @@ Odešel k řece nakrmit racky svými implantáty.
 
 Před domem se poflakoval jeho úterní sledkyn, ale on si ho, jako ostatně i během mnohem méně zbytnělých absťáků, nevšiml. Autor pospíchal na drogovou tržnici a nezaregistroval by patrně ani před domem se poflakující ruské kolo. Mrkl na ilegálně nainstalovanou mapu města za svým čelem, aby zjistil, kam během dopoledne tržnice doplula. Sledkyn ho následoval s tichým bzučením.
 
-„Naomi miluje Neklana,“ řekl Neklan a políbil Naomi na jizvu po křídle. Po několika víceméně milostných dotecích a větách vešli do Neklanova výtahového bytu.
+_„Naomi miluje Neklana,“ řekl Neklan a políbil Naomi na jizvu po křídle. Po několika víceméně milostných dotecích a větách vešli do Neklanova výtahového bytu._
 
 „Jo, to je mnohem lepší než přízemní byt, ten byl moc přízemní,“ pousmál se sebevědomě autor. Po půlhodinovém výletě ven a hodinovém dovnitř. „Chyt jsem se!“
 
-Schylovalo se ke krveprolití. Jeden z jeho aktérů neměl ponětí o tom, že krev, intimně kolující v jeho žilách, bude zanedlouho věcí veřejnou, že se jeho krev jako nesmělý odborář ocitne na dlažbě, že bude nedobrovolným dárcem krve. Den pro něj měl skončit dávno před setměním. Ten muž zatím nemá ponětí, že se má stát potravou zákeřné instituce zvané Osud. Přesněji řečeno, Naplánovaný a předem uhrazený osud. Částka byla už dojednaná: o dost vyšší než za čistírnu a o něco nižší než za kurz východní filozofie na západním pobřeží.
+_Schylovalo se ke krveprolití. Jeden z jeho aktérů neměl ponětí o tom, že krev, intimně kolující v jeho žilách, bude zanedlouho věcí veřejnou, že se jeho krev jako nesmělý odborář ocitne na dlažbě, že bude nedobrovolným dárcem krve. Den pro něj měl skončit dávno před setměním. Ten muž zatím nemá ponětí, že se má stát potravou zákeřné instituce zvané Osud. Přesněji řečeno, Naplánovaný a předem uhrazený osud. Částka byla už dojednaná: o dost vyšší než za čistírnu a o něco nižší než za kurz východní filozofie na západním pobřeží._
 
-Letní den byl krásný jako obrázek. Krajinka s rudou signaturou v pravém dolním rohu.
+_Letní den byl krásný jako obrázek. Krajinka s rudou signaturou v pravém dolním rohu._
 
 Autor se dotýkal klávesnice počítače rychle a přesně jako chopinovský virtuos. Písmena utěšeně přibývala a slévala se do slov, která utvářela věty. Psát bylo snadné jako novoroční předsevzetí. Na povahu náhlé proměny jeho literárních schopností ukazovala jen fialová tečka pod nehtem levého prsteníku.
 
-„Neklan miluje Naomi,“ řekla Naomi a napodobila Neklanův černý přízvuk. On pohladil hladkou Naominu tvář. Ve vzduchu zavoněla její aura. Jako ozon po bouřce. Neklan dokonce na okamžik uviděl jemně namodralou zář u jejího čela, nosu a úst. Připomínala mu svítání nebo západ, nebo jak kdo chce, podle svého naturelu a přesvědčení. I když se vlastně nedá říct, že by západ slunce byl pozpátku promítnutým východem a už vůbec ne, že by svítání bylo couvajícím západem. Objali se.
+_„Neklan miluje Naomi,“ řekla Naomi a napodobila Neklanův černý přízvuk. On pohladil hladkou Naominu tvář. Ve vzduchu zavoněla její aura. Jako ozon po bouřce. Neklan dokonce na okamžik uviděl jemně namodralou zář u jejího čela, nosu a úst. Připomínala mu svítání nebo západ, nebo jak kdo chce, podle svého naturelu a přesvědčení. I když se vlastně nedá říct, že by západ slunce byl pozpátku promítnutým východem a už vůbec ne, že by svítání bylo couvajícím západem. Objali se._
 
-Neklan častěji než Naomi vnímal dilema vyplývající z podstaty jejich profese. A trpěl jím. Rozpor osobního života, který byl po okraj natankován zběsilou láskou k Naomi, a profese, jež vyžadovala despekt k životu, nezvládal snadno. Nakonec to pokrytecky, ale přece jen snesitelně vyřešil úplným odtržením oněch dvou světů ve své hlavě. Jeho rozpolcenost vedla k tomu, že dosáhl v bipolárních polohách svého Já vysokého stupně dokonalosti. V obou byl nepřekonatelný, opomeneme-li jednu jedinou výjimku, kterou byla právě Naomi. Nikdo totiž neuměl milovat a zabíjet tak jako ona. V milování, na rozdíl od svého povolání, byli oba monogamní!
+_Neklan častěji než Naomi vnímal dilema vyplývající z podstaty jejich profese. A trpěl jím. Rozpor osobního života, který byl po okraj natankován zběsilou láskou k Naomi, a profese, jež vyžadovala despekt k životu, nezvládal snadno. Nakonec to pokrytecky, ale přece jen snesitelně vyřešil úplným odtržením oněch dvou světů ve své hlavě. Jeho rozpolcenost vedla k tomu, že dosáhl v bipolárních polohách svého Já vysokého stupně dokonalosti. V obou byl nepřekonatelný, opomeneme-li jednu jedinou výjimku, kterou byla právě Naomi. Nikdo totiž neuměl milovat a zabíjet tak jako ona. V milování, na rozdíl od svého povolání, byli oba monogamní!_
 
 V jiné části města se holil muž. Čekalo ho nepříjemné jednání, o kterém se mylně domníval, že bude největší nepříjemností dnešního dne. Na drobnou ranku přiložil nepatrný útržek toaletního papíru, na němž hned rozkvetla červená skvrnka. Proužek papíru teď vypadal jako miniatura japonské vlajky. Muž pokládal to drobné škrábnutí za jedinou krvavou epizodu dnešního dne. Také mylně.
 
-Kdesi úplně jinde zatím krásná dívka a její milenec kontrolovali způsobilost svých zbraní, aby mohli zodpovědně a profesionálně zmařit jeho představy o tom, co je nepříjemnost. A o tom, jaké množství jeho krve bude prolito v dnešním odpoledni.
+_Kdesi úplně jinde zatím krásná dívka a její milenec kontrolovali způsobilost svých zbraní, aby mohli zodpovědně a profesionálně zmařit jeho představy o tom, co je nepříjemnost. A o tom, jaké množství jeho krve bude prolito v dnešním odpoledni._
 
-Byl hezký letní den…
+_Byl hezký letní den…_
 
 Autor byl spokojen s vývojem svého příběhu, a tak z části opustil práci, aby na třetině stěny zasurfoval v celách oblíbeného euthanasiatského porna. Všechny ty řezy, stehy a vzdechy ozývající se z virtuálního nevěstince Hokkaidó ho brzy otrávily. „Je to furt stejný! Jako pan Čárka a pan Tečka, co se trápili dokolečka! Spíše tedy paní Kosočtverečková a pan Skalpel,“ povzdechl téměř jako muž po čtyřicítce a třetí dávce rolleru. Pak si vybavil upřímnou tvář Vladimíra Li Koriktwyna, vypnul hekající Hokkaidó uprostřed transplantace nějakého jemu neznámého orgánu a vrátil se poslušně jako spořádaná děvka k chodníku, který unášel jeho dávno nemilované hrdiny vstříc nedopsané pointě.
 
-Naomi ozbrojená jen samonavigačním nožem a Neklan se svým ukazovákem ráže čtyřicet dva vyšli na ulici. Ze dvou milenců se náhle stalo dokonale fungující zařízení k účelnému zabíjení lidí. Smrtící zbraň. Většina jejich klientů byla přesvědčena, že jsou jedinou osobou. To celkem věrohodně podporoval i fakt, že v rudých stránkách figurovali pod společným jménem – Nena.
+_Naomi ozbrojená jen samonavigačním nožem a Neklan se svým ukazovákem ráže čtyřicet dva vyšli na ulici. Ze dvou milenců se náhle stalo dokonale fungující zařízení k účelnému zabíjení lidí. Smrtící zbraň. Většina jejich klientů byla přesvědčena, že jsou jedinou osobou. To celkem věrohodně podporoval i fakt, že v rudých stránkách figurovali pod společným jménem – Nena._
 
-Rychle a pečlivě si ověřili nepřítomnost sledkynů a vyrazili za svým cílem. Nespěchali ani se neloudali. Kráčeli sebevědomě a nezadržitelně předem ověřenou trasou. Čišel z nich klid, rozhodnost a něco jako stavovská čest, která byla srovnatelná snad jen se sebevědomím úspěšného dirigenta, chirurga nebo…
+_Rychle a pečlivě si ověřili nepřítomnost sledkynů a vyrazili za svým cílem. Nespěchali ani se neloudali. Kráčeli sebevědomě a nezadržitelně předem ověřenou trasou. Čišel z nich klid, rozhodnost a něco jako stavovská čest, která byla srovnatelná snad jen se sebevědomím úspěšného dirigenta, chirurga nebo…_
 
 Zrollerovaný autor chtěl ještě připsat: úspěšného spisovatele, ale tak sjetý zase nebyl. Vysoká koncentrace chemické látky opájela jeho mysl pocitem sebeuspokojení. Napadlo ho, jak je skvělé, že svůj mozek vyživuje bohatými zážitky posledních let. Právě teď je považoval za podnětné a inspirující. Malý autorek živořící někde uvnitř jeho hlavy křičel tenkým hláskem z plných plíček: „Jsou destruktivní a sebezničující, ty tvé zážitky! A embryo hypotetického životního románu, které jimi napájíš, je mrtvé! A co hůř: neexistuje! Nikdy neexistovalo! TVÁ KNIHA je jen chiméra, mumifikovaná mrtvola fikce, stín pomníku vylhaného bludu…“
 
@@ -99,9 +99,7 @@ Pod obloukem mostu Prvního máje uslyšel takové šťavnaté křupnutí, jako 
 
 Byl hezký letní den.
 
-_KONEC_
-
-  
+> _KONEC_
 
 Nakladatel Dmitrij Konstantinovič Ostoprudin dočetl rukopis. Seděl rozvalený ve starobylém koženém křesle (opravdu koženém, z nějakého zabitého zvířete) za stolem o chlup menším než větší taneční parket. Pak pohlédl na spisovatele Engelmilera udiven, jako kdyby pro samé čtení zapomněl na jeho přítomnost v místnosti. Ten doposud mlčky a v pozoru čekal u dveří. Nejdřív se pokoušel vypadat jako spisovatel, po deseti minutách nevypadat jako liftboy a po další čtvrthodině nebýt vidět vůbec. Nakladatel vážně pokýval hlavou a smutně vzdychl. Hrábl do velké krabice pro obrovský doutník a pečlivě odřízl jeho špičku, která by stačila průměrnému kuřákovi k hodinové kratochvíli. Pak ten kubánský Zeppelin opatrně nahřál nad stolním zapalovačem a konečně si zapálil. Spisovatel bezvýznamně zakašlal. Ostoprudin vypustil z úst nekonečný dým.
 
@@ -123,4 +121,4 @@ Engelmiler se dlouze zadíval z okna, pak si protáhl ztuhlá záda a vrátil 
 
 * * *
 
-[1](./resources/undefined) (rusky) Posaďte se, prosím! … No, tak co mám s vámi dělat, chlapče nešťastný? … Není to žádný Hemingway, a už vůbec ne Čechov: … Originálního je na tom prd a zápletka s postavami, které zabijí svého autora, je nepůvodní až běda. … A ten nakladatel Koriktwyn? … To má být co, hochu nešťastný? Revolta? … Jo, jo. Vy mě trápíte! Jste ale talentovaný spisovatel, a tak vám dám ještě jednu šanci…
+_[1](./resources/undefined) (rusky) Posaďte se, prosím! … No, tak co mám s vámi dělat, chlapče nešťastný? … Není to žádný Hemingway, a už vůbec ne Čechov: … Originálního je na tom prd a zápletka s postavami, které zabijí svého autora, je nepůvodní až běda. … A ten nakladatel Koriktwyn? … To má být co, hochu nešťastný? Revolta? … Jo, jo. Vy mě trápíte! Jste ale talentovaný spisovatel, a tak vám dám ještě jednu šanci…_

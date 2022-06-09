@@ -3,8 +3,6 @@ title: Anděl
 contentType: prose
 ---
 
-  
-
 „Andělé jsou demóde, vole!“
 
 V hospodě U Kotoulu bylo útulno a smrad. Smrad, protože tu bylo pečlivě zahuleno, úzkostlivě nevětráno a z kuchyně to završoval sytý odér přepáleného tuku. Útulno tu bylo z mnoha důvodů, vesměs těžko vyjádřitelných, malostranským geniem loci počínaje a vynikajícím plzeňským pivem, které čepoval zamlklý pan Machek, konče.

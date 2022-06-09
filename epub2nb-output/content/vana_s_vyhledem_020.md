@@ -3,14 +3,12 @@ title: "Salon v\_ulici des Moulins"
 contentType: prose
 ---
 
-Zpěv končím slokou o tvé náruči,  
+_Zpěv končím slokou o tvé náruči,  
 o ústech, jež lehko  
 něhou svých polibků mě umučí,  
-Anděli můj! — Děvko!
+Anděli můj! — Děvko!_
 
-Paul Verlaine: _Serenáda_, přeložil František Hrubín
-
-  
+> Paul Verlaine: _Serenáda_, přeložil František Hrubín
 
 V 17.07 jsem ji zahlédl u silnice. Všude kolem byl říjen. Koruny stromů, krev a rez, se dvojily v kalužích jako rytíři na dvojhlavých kartách. Obloha byla šedá jako Baltské moře a mrholení se zamítavým gestem stěračů připomínalo film ze začátku šedesátých let. Nějakou černobílou detektivku s Rudolfem Hrušínským v baloňáku, s cigaretou bez filtru a téměř beze slov.
 

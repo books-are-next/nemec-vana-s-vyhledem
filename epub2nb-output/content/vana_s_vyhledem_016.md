@@ -3,8 +3,6 @@ title: Most
 contentType: prose
 ---
 
-  
-
 Vltava protéká mezi pilíři starého mostu, jako by to byly prsty kamenného obra. Po mostě přecházejí lidé z břehu na břeh. Pro zábavu na levý, za prací na pravý, do malostranských hospod, na staroměstská rande a tak. To jsou ti místní, většinu ale tvoří návštěvníci rozdělení do mnohačetných konvojů. Jako krysaři, třímající místo píšťaly zavřené deštníky, je vedou průvodci, kteří japonsky, německy, italsky a anglicky donekonečna omílají bláboly o počtu vajec spotřebovaných při stavbě mostu. Mávají deštníky jako mažoretka a vláčí své nevidoucí vojsko přes most. A dav turistů se stává jedinou bytostí, stonožkou cvakající spouštěmi aparátů jako zuby, s očima složenýma z desítek objektivů fotoaparátů a kamer. Většinou uvidí most až z fotek a videa. V Ósace, Lipsku, Římě nebo v Los Angeles.
 
 Vzpomínám, jak kamarád sochař Stefan Milkov hostil ve svém bytě na Kampě americkou studentku. Přiletěla v noci a po příjezdu do dočasného bydliště padla unavená na postel a usnula. Ráno se probudila, vyšla na balkon a pohlédla na most.
