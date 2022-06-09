@@ -3,8 +3,6 @@ title: "Vana s\_výhledem"
 contentType: prose
 ---
 
-  
-
 Vladimír zadržel dech a ponořil se do horké vody s bohatým chomáčem pěny. Pěna mu vždy připomněla pivo a pivo mu pak připomnělo Marka. Ten nechtěný asociační řetězec ho unavoval jako… Unavoval ho stejně jako všechny stereotypy. Měl pocit, vlastně věděl, že celý jeho život je dnes vystavěn z kvádru stereotypu. Nenáviděl tu bezbarvou, okoralou stavbu protkanou usherovskými prasklinami. Byla to architektura podobná spíše karlínskému činžáku než vznosnému zámku, jímž kdysi měla být.
 
 Jediný stereotyp, který kupodivu Vladimíra neskličoval, byla vana plná horké vody s pěnou na hladině.

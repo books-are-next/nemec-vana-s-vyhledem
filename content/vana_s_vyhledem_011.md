@@ -3,8 +3,6 @@ title: "Dřez a\_pěnkavy"
 contentType: prose
 ---
 
-  
-
 V bytě bylo chladno, i když rtuť teploměru tomu nenasvědčovala.
 
 Tomáš snídal a Linda myla nádobí od večeře. Odkládala tuto činnost na ráno a Tomášovi tím znepříjemňovala snídání natolik, že se časem propracoval k pouhému srkání horké a hořké kávy vestoje u okna. Linda tento jeho asketismus považovala – a dlužno říct, že celkem oprávněně – za jeden ze způsobů, jakým se snaží vzbudit soucit a lítost. Svůj postoj k této jeho vlastnosti, ať již byla živena jakýmikoliv důvody, vyjadřovala tím, že nádobí myla sice dlouho, ale zřetelně, jak Tomáš říkával s trochu nuceným úsměvem při výjimečných příležitostech, kdy se ocitl mezi kamarády mimo dosah instituce s pracovním názvem _domov_.

@@ -3,8 +3,6 @@ title: Lázně Rotstein
 contentType: prose
 ---
 
-  
-
 Les se přede mnou náhle rozestoupil jako moře před Mojžíšovou holí. Ta hůl byl stejně jenom spouštěcí mechanismus boží vůle, ne? Něco jako dálkový ovladač. Nebo byl tím dálkovým ovladačem Mojžíš? Bůh ví…
 
 Les se přede mnou rozestoupil jako těžká sametová opona před těžkým divadelním kusem. „Nejtěžší kus padl,“ říkávala maminka. Myslela tím otce, když se šel po obědě natáhnout na gauč.
