@@ -3,6 +3,8 @@ title: Dveře
 contentType: prose
 ---
 
+<section>
+
 Dveře. Okované dveře. Hrubé fošny pospojované hrubým kováním, oboje dlouhými léty proměněno bezmála v kámen. Kov a dřevo, uondané věky a s kresbou zelenkavé plísně ve spárách, se spojily v jedno. Dřevo a kov, oboje prorostlé neoddělitelně a trvale. Dřevo nezetlelo a kov nepodlehl rzi. Minerály z vápencových kamenů, které tvoří strop a stěny sklepní místnosti, se vsákly do pórů dubových prken a pokryly ochrannou vrstvou železné kování. Věkem zohavené i zkrásnělé dveře se staly pevnějšími, než kdysi bývaly, a kůže patiny, kterou je potáhly nesčetné roky, jim dodala vzezření i podstatu nesmírné a soustředěné odolnosti.
 
 Byly zamčené. Proti takovým dveřím by nebylo účelné vyrazit ramenem. A vykopnout je prudce nohou, jak tomu bývá v akčních filmech, by znamenalo obětovat zdravý kotník ve prospěch chorobného sebevědomí.
@@ -118,3 +120,5 @@ Klíč jsem nechal v zámku a dveře, téměř kamenné dveře, dokořán. Už
 Po mém odchodu ze sklepa nastalo ticho. Ne to, které jsem slyšel a mylně ho považoval za absolutní. Tohle ticho má svůj výhružný hlas; mohutný a nelidský. Voda v odlehlé chodbě přestala kapat…
 
 Dlouho se nic nedělo a pak se s obrovským zaduněním dveře zabouchly. Z okapu protějšího domu U Bílé koule, která dávno zčernala kyselými dešti, vzlétlo k obloze hejno holubů. Dveře se pomalu, ale kategoricky zamkly. Zevnitř…
+
+</section>

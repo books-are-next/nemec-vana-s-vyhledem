@@ -3,6 +3,8 @@ title: "O\_krvácejícím stromku a\_barborkách"
 contentType: prose
 ---
 
+<section>
+
 Z městečka, kde má autobus konečnou, to je daleko a cesta, jak se zdá, nebyla několik dnů protažená. Nohy se boří do čerstvého sněhu, takže se nedá jít moc rychle.
 
 Prosincové nebe je studené jako mramor a nad horizontálou lesa, který temnou náručí objímá zasněženou krajinu, visí nehybná a nelaskavá bulva slunce. Zdá se mi, že mě to nemrkající krhavé oko pozoruje. Že pozoruje jenom mě. Přidávám do kroku. Za chvíli vejdu do stínu mezi stromy a ztratím tu zlou hvězdu z dohledu. Vlastně ona ztratí z dohledu mě.
@@ -92,3 +94,5 @@ Probouzím se zimou a strachem. V první chvíli nevím, kde jsem. Sedím zkro
 Třesu se zimou, vyčerpáním a strachem, když přibíhám mezi černobílé stromy. Vítr je tu méně pronikavý.
 
 „Tatínku!“ už nevolám, ale šeptám. Tady uprostřed sadu je křik nepatřičný. Vítr náhle zmlknul docela a všude kolem jen šustivý šepot padajícího sněhu. Každá vločka na světě prý vypadá jinak. Jejich krystalická stavba je tak složitá a rozmanitá, že nemohou být dvě zcela stejné. Zůstávám tedy stát v záplavě neopakovatelných variací na téma sněhová vločka. Ty jedinečné krystaly se mi rozpouštějí v ústech a v očích. Dýchám pomaleji a najednou už necítím mráz ani strach. Jsou to pocity závratného prozření a úlevy, které vnímám, když ve stále houstnoucím chumelení zahlédnu na okamžik jemné příčky zdvihajícího se žebříku.
+
+</section>

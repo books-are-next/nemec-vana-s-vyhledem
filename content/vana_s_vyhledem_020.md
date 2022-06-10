@@ -3,10 +3,16 @@ title: "Salon v\_ulici des Moulins"
 contentType: prose
 ---
 
+<section>
+
 _Zpěv končím slokou o tvé náruči,  
 o ústech, jež lehko  
 něhou svých polibků mě umučí,  
 Anděli můj! — Děvko!_
+
+</section>
+
+<section>
 
 > Paul Verlaine: _Serenáda_, přeložil František Hrubín
 
@@ -14,29 +20,53 @@ V 17.07 jsem ji zahlédl u silnice. Všude kolem byl říjen. Koruny stromů, 
 
 Trochu prudce jsem zabrzdil. Většina mužů, a to bez rozdílu vzdělání a vyznání, trochu prudce brzdí a trochu prudce startuje, pokud je v blízkosti osoba druhého pohlaví. A z téhle osoby to její druhé pohlaví přímo čišelo. Sálalo. Řvalo! Zacouval jsem a dával přitom dobrý pozor, abych tu žádoucí dívku, která se zdviženým palcem stála u silnice, neohodil. Měla na sobě velmi krátkou bílou bundu a nesmírně krátkou bílou sukni. V tom všudypřítomném blátě by stačilo málo, abych z ní udělal dalmatince. Dovedu si určitě představit mazanější entrée pro další konverzaci.
 
+</section>
+
+<section>
+
 V 17.07 jsem za sebou měla už dvě hodiny stopu v tomhle ospalým análu zeměkoule s názvem Řásnice a byla jsem zmrzlá na stydkou kost. Exoticky šedá silnice kontrastující s pohádkově šedým pangejtem a nad tím vším se klene omamně šedá obloha. Řásnice mon amour.
 
 Moje nálada byla radostná jako kondolence k úmrtí mladší sestry. Konečně, když jsem si teda minisukni vyhrnula až někam nad lopatky, chlápek oháknutej ve fordu focus začal brzdit jako pes zbavující se cizopasníků. Byla jsem v tu chvíli ráda, že mi není šedesát nebo že nejsem třeba opilej voják, i když jsem si mnohokrát v životě říkala pravej opak. Dnes ale byla zima. Teplo je zkrátka někdy víc než počestnost. Teplo může dokonce být i víc než morálka. Ale co já s morálkou? Ode mě se očekávají spíš úkony typu orálního. Ha ha.
 
 Když ke mně ten chlap tak zběsile couval, vjel do louže a ohodil mě od hlavy k patě. A to jsem mu dohromady ještě nic nepředvedla! Ha ha.
 
+</section>
+
+<section>
+
 V 17.07 tu zkažená čubka nestoudně vystavuje své nahé maso kolemjedoucím! Jeden z nich právě zastavil a přeochotně to lascivní stvoření naložil do auta. Bolí mě pátý, šestý a sedmý obratel.
 
 Začíná jemně pršet. Déšť voní jako déšť, který přichází po požáru. Zapínám světla a vyjíždím opatrně za nimi. Kanystry v kufru do sebe narážejí s dunivým šploucháním. Spát se mi nechce, nechce, nechce…
+
+</section>
+
+<section>
 
 V 18.42 jsem se skřípěním brzd (my muži…) zastavil u motorestu Punk Child. Nevypadal zdaleka tak zle jako motorest U Tří pa­viánů, který jsme málem navštívili o třicet kilometrů dřív, nebýt pronikavého odéru mnohem většího počtu paviánů, než avizoval poblikávající neon. Moc nemluvila. A už vůbec ne česky. Po jednom kafi s tuplovaným panákem pro mě a jednom steaku a třech ginech s tonikem pro ni, jsme se ubytovali.
 
 Paní na recepci, která právě s nevalným zájmem sledovala velkou show v malé televizi, nám položila klíč na pult z černého skla. Zdálo se, že pro nás jí už nezbyl zájem ani nevalný.
 
+</section>
+
+<section>
+
 V 18.42 jsme zakotvili u nějakýho motorestu. Ten řidič, nadrženej jak virová pandemie, to chtěl zapíchnout už předtím u pekelný pastoušky, co se jmenovala a taky smrděla po opicích. Nakonec jsem to, díkybohu, dokázala vymluvit jemu i jeho zdivočelýmu parťákovi pod volantem. Tenhle motorest se jmenuje něco jako Punk Child. Je sice dřevěnej, takže trochu připomíná prvorepublikovou plovárnu. Zvenku vypadá celkem čistě. To já většinou taky. Ha ha.
 
 Měla jsem hlad jako stopující děvka, a tak jsem z pana natěšenýho vyrazila sendvič se šunkou a dva giny s tonikem. Lidi většinou neradi platí předem… Recepční ani nechtěla moje doklady, takže nebylo třeba řešit jejich neexistenci. Kdyby s sebou měl nafukovací pannu, věnovala by jí větší pozornost než mně. Chápu to. Pannu tu určitě ještě nikdo nikdy neviděl! Ha ha.
+
+</section>
+
+<section>
 
 V 18.42 zastavují u druhého motorestu. Ona se před pářením hodlá nechat nakrmit a napojit. Bolest páteře je nesnesitelná. Mícha se osvobozuje jako had. Hovoří syčivě rozeklaným jazykem.
 
 Dívám se na ně od svého mléka. Ta hnusná polonahá servírka mi odmítla prodat sklenici mléka. Musel jsem si nakonec koupit jeden maličký kelímek mléka ke kávě… A druhý maličký kelímek mléka ke kávě… A třetí maličký kelímek mléka ke kávě… A čtvrtý maličký kelímek mléka ke kávě… A pátý maličký kelímek…
 
 Neusnu ani na chvíli, neboj! Bolest mi pomůže.
+
+</section>
+
+<section>
 
 Ve 20.18 vyšla ze sprchy. Bílý ručník měla omotaný kolem opáleného těla jako Brigitte Bardot, když ještě nelobbovala s tuleni. Byla vzrušující a vyzývavá.
 
@@ -47,6 +77,10 @@ Jednou jsem viděl kreslený vtip: Neuvěřitelně barvitě pojatý západ slunc
 Kreslené vtipy se vyprávějí snadno, ale popsat tu stopařku po mně nechtějte. Štětka? Samozřejmé. Ale neuvěřitelná štětka! Kolem bradavek měla jemné chmýří a při milování samotném se výraz její tváře chvílemi ztrácel v opojení, jako se účastníci _Blair Witch Project_ ztráceli v tom zrnitém VHSkovém lese. Byla trochu nastydlá a popotahovala dávno předtím, než jsem vylovil z útrob bundy psaníčko bez adresy. Kokain patří k sexu v motorestu stejně jako trapas k abiturientskému večírku, jako špatná předpověď počasí k Charlesu Dickensovi, jako akné k tanečním kurzům, jako sex k motorestu s kokainem.
 
 Dlouze a nahlas se vysmrkala. Vzpomněl jsem si na jeden obraz českého malíře Bedřicha Dlouhého. Byl to portrét krásné, elegantní a sebevědomé ženy s hlubokomyslně vemlouvavým pohledem upřeným na diváka a s decentně průhlednou nudlí u nosu. Jmenoval se _Mírné nachlazení_. Ten obraz byl pro mé vnímání světa důležitý. Teprve drobná nedokonalost povyšuje přece hezkost a půvab na Krásu s velkým K. Nemyslím takovou tu na podstavci opatřeném římskou kapitálou. Myslím živou krásu, třeba i trochu nemocnou, ale neopakovatelnou! Nenaklonovatelnou!!
+
+</section>
+
+<section>
 
 Ve 20.18 jsem vyšla ze sprchy a zaplatila za dopravu a občerstvení… To je čistej cynismus, že? Na rozdíl od mnoha svých kolegyň mám výhodu, že vím, co je cynismus vůbec za slovo. Nebo je to nevýhoda? Člověk nejen že se nerodí jako děvka (narodila jsem se jako holčička, pokud vím), ale často k tomu ani nijak nesměřuje. Ve třinácti na otázku své třídní „Čím chceš být?“ většinou neodpoví: „Prosím, prosím já bych chtěla být kurvou, paní učitelko!“ To spíš vypustí do virtuálního světa spořádanejch představ nějakou tu kadeřnici, a když hodně přitvrdí, tak letušku, v nejhorším případě zpěvačku…
 
@@ -62,6 +96,10 @@ Pan celkemmilej stačil říct jen: „Lautrec to namaloval kolem osmnáct set d
 
 A pak s očima obrácenýma ke stropu zmlknul, i když technicky vzato mluvit klidně mohl. Teda na rozdíl ode mě. Ha ha.
 
+</section>
+
+<section>
+
 Ve 20.18 prohlížím dějiště jejich pokání. Odporný přízemní motorest plný ženských pachů. A mužských pachů. Zvenku jsou na oknech mříže, což je naprosto skvělé! Vchod do restaurace samostatný, v recepci jediná stařena zaujatá televizí a ochotná přistoupit na verzi moravský distributor vín.
 
 „Tož, to je moje živobytí, paninko. To já nemóžu nechat v auťáku. Těch pár demižónků chci mít pěkně na očích. Však já donesu koštnót, žádné strach.“
@@ -74,11 +112,19 @@ Bolest se zklidnila, ale vím, že jen čeká na svou příležitost. Had v dut
 
 Páteř zasyčela a kdesi v mé hlavě vyšlehl plamen.
 
+</section>
+
+<section>
+
 Ve 22.22 nám noční bílé linky jely bez zpoždění a po každé z nich jsme se opět sešli na křižovatce svých těl. Vlastně sjeli, protože sešlí jsme si rozhodně nepřipadali.
 
 Zažili jsme dlouhý večer plný krátkých snů. Ať už bděných, nebo těch druhých. Opakovaná rozkoš v neopakovatelných obměnách byla závratná. Pohádka tisíce a jednoho poryvu vášně vázaná v kůži horké ženy a ilustrovaná dráždivou vůní potu. To vše v exkluzivní edici Jediná noc. Byla to dospělá milenka. Věděla, kdy se má otrocky vzdát a kdy je naopak s partnerem třeba bojovat jako smyslů zbavená o každý milimetr uspokojení. Smyslů zbavená smyslností! Růžový plyš mazlíčka chvílemi bez varování prorvaly atavistické drápy. Tahle bezejmenná cizinka mě upálila na hranici vlastního chtíče a vzápětí uhasila příbojem hojivé něhy. Několikrát za sebou! A několikrát pod sebou! A několikrát nad sebou! Byl to jeden obrovský tanec: ordinérní polka s šarmem předválečného tanga v rytmu speedmetalu.
 
 Po hodinách plynoucích bez korekce minut a diktátu vteřin jsme se prosouložili k nefalšovanému milování. Protože jestli její milování bylo falšované, chci jednou provždy žít ve zfalšovaném světě plném zfalšovaných pocitů a představ. A nakonec s pocitem falešného zadostiučinění falešně umřít. Pravdu si, prosím, v tom případě vystavte doma mezi trofeje z moří (páchnoucí mušle, hvězdice a kraby) a upomínkové předměty z lázní (Karlovy Vary, Teplice a Poděbrady). Jestli takhle miluje děvka za peníze, tak chci být milován děvkou za peníze jednou provždy! Vlastně mnohokrát provždy!
+
+</section>
+
+<section>
 
 Ve 22.22 světácky vybalil celkem slušnej pervitin, i když říkal, že je to úplně výtečnej koks. Nakonec, ať už si myslel, že tohle je kokain, nebo chtěl, abych si já myslela, že je to úplně výtečnej kokain, nebrala jsem mu iluze.
 
@@ -90,11 +136,19 @@ Bylo po všem, ale přišlo něco naprosto zvláštního: usnuli jsme si v obje
 
 Zůstal ležet a objímal mě. A já jsem ležela a objímala jeho.
 
+</section>
+
+<section>
+
 Ve 22.22 je vše připraveno. Recepční po mém víně Château Rohypnol spí jako mrtvola. Usínám s otevřenýma očima. Všude kolem je popel. Vlevo, vpravo, vepředu i vzadu – popel.
 
 Namísto růžence mnu v prstech obratle své nemilosrdné páteře.
 
 Nech mě ještě chvíli spát, mami!
+
+</section>
+
+<section>
 
 Ve 23.50 jsme usínali vedle sebe. Ona ležela s hlavou na mém rameni a já s hlavou v nebi. Bylo to sice nebe velmi nereligiózní, ale nebe to bylo. Nade vši pochybnost.
 
@@ -102,9 +156,17 @@ V tolika vztazích s tolika ženami jsem tohle neuměl. Nebo to neuměly ony? 
 
 Tady, na zemi pitomého motelu, jsem měl najednou pocit něčeho… Něčeho, co se právě stalo. A stalo se to hodně!
 
+</section>
+
+<section>
+
 Ve 23.50 jsme usínali v objetí jako… Milenci? Jo, jako milenci! Už jsem myslela, že nevím, jak to chutná. Už jsem na to nevěřila. Už jsem myslela, že to umřelo.
 
 Gdaňsk 1995… Temné přízraky lodí a slaná noc přinášená odlivem. Olej řetězu a jednonozí rackové. Vítr, který přináší zvuky z přístavu, kde ráno začíná už v noci. To všechno a ještě něco. Něco, co bylo teď. Šeptání v řeči, ve které nerozumím každému slovu, a přece rozumím… Něco, co se právě stalo a stalo se to hodně!
+
+</section>
+
+<section>
 
 Ve 23.50 mě budí matka. Ve vedlejším pokoji je náhle ticho. Musím si pospíšit! Nesmím usnout, nesmím spát!
 
@@ -117,6 +179,10 @@ Z malé aktovky, ve které jsem kdysi do školy nosíval pro posměch spolužá
 Vánoční cukroví voní celým hořícím domem. Linecké koláčky jsou jako prsteny kostí kolem mé posvátné míchy. Tam jsem musel spát. Po prášcích. Polonahé nevlastní sestry mě přivazovaly a se smíchem vrážely do mé páteře stovky jehel!
 
 Už nespím!
+
+</section>
+
+<section>
 
 Ve 24.00 vyšlehly ode dveří plameny. Všude byl dým a ozýval se podivný hukot připomínající silný vítr, který se opírá do plachet. Podíval jsem se na okno a teprve nyní jsem si všiml silných mříží mezi žaluziemi. Tenhle motorest nikdo nevykrade, jak se zdá…
 
@@ -132,6 +198,10 @@ Je konec, pomyslel jsem si, a kupodivu mě taková představa nevyděsila. Můj
 
 Zakryl jsem si před stravujícím žárem obličej a ohlédl se, co dělá ona. Stála u stěny a klidně si prohlížela reprodukci Lautreca. Dřevěná stěna, na které obraz visel, najednou lačně otevřela ohnivá ústa a pohltila ji.
 
+</section>
+
+<section>
+
 Ve 24.00 začalo hořet. Mám ráda oheň.
 
 Když jsem byla malá, vydržela jsem do plamenů zírat celý hodiny. Maminka s tetou zpívaly krásný písničky o starých pistolnících, o lososech v Mazurských jezerech nebo o Japonečce v Jokohamě. Někdy jsme jen mlčely do rytmu praskajícího dřeva a klacíky jsme odstrkovaly konec prázdnin.
@@ -143,6 +213,10 @@ Tak jo, hoří. A je to fajn, že nehořelo včera. Včera jsem nikomu neusnula
 Ten Lautrecův obraz je krásnej. Škoda že jsem tak blbá a neposlechla si od toho blázna, kterej teď marně cloumá klikou pokoje, jak se jmenuje. Ten obraz, samozřejmě! U chlapů jsem na anonymitu zvyklá. I když tenhle…
 
 Ode dveří na mě dýchlo peklo a druhý větší právě nabíralo dech někde za zády vznešeně klidnejch kolegyň z roku 1894. Ještě že si pamatuju aspoň čísla. Teda některý! Ha ha.
+
+</section>
+
+<section>
 
 Ve 02.38 stojím v menším hloučku lidí mezi pěti hasičskými auty, dvěma policejními a tím, co zbylo z motorestu.
 
@@ -160,10 +234,20 @@ Prší. Déšť padá do popela a voní jako tenkrát.
 
 Nespím, neboj se! Popel se pomalu mění v bláto.
 
+</section>
+
+<section>
+
 Ve 02.38 jsem stál mezi sloupy ve foyeru a hleděl na sebe do vysokého zrcadla. Sametový koberec ztlumil kroky číšníka natolik, že připlul bezhlesně jako gondola. Ze stříbrného tácku mi nabídl šampaňské ve štíhlé sklenici. Bylo nesmírně lahodné. Vytříbená chuť nápoje se spojila se vzdálenou hudbou v jeden omamný pocit.
 
 V tu chvíli jsem uviděl přicházet oslnivě krásnou dívku. Číšník jí s galantní úklonou nabídl sklenku a zmizel stejně tiše, jako se objevil.
 
+</section>
+
+<section>
+
 Ve 02.38 jsem ve zlatavém světle foyeru zahlédla u zrcadel neznámého a celkem pohledného muže. Rozloučila jsem se s Marcelle pozdvižením obočí, zvedla jsem se z velkého purpurového divanu a vydala se napříč salonem. Do práce. Ha ha.
 
 Jean-Pierre mi se spikleneckým mrknutím nabídl sklenku šampaňského. S úsměvem jsem přistoupila k cizinci a řekla větu, jejímž obsahem jsem si v tu chvíli nebyla zcela jistá: „Jestli se nemýlím, pane, ještě jsem vás v des Moulins nikdy neviděla.“
+
+</section>
