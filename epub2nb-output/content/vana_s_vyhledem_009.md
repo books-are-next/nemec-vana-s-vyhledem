@@ -3,6 +3,8 @@ title: Anna samodruhá
 contentType: prose
 ---
 
+<section>
+
 Na ulici bylo rušno. Oproti tomu, co se odehrávalo uvnitř Anny, byl ten velkoměstský mumraj ale jen zívnutím ze začátku předminulého století. Její rozruch byl způsoben vědomím tepu malého srdce kdesi pod jejím srdcem velkým. Ta dvě srdce spoluvytvářela neklidný a proměnlivý rytmus, ve kterém Anna divoce tančila. Tančila ne­hnutě na zastávce tramvaje před obchodním domem. Tančila v sobě samé. Uvnitř.
 
 Přijela tramvaj, na kterou čekala, ona ale nenastoupila. Za jejími okny uviděla mdle netečné obličeje a měla pocit, jako kdyby celý vůz byl jedoucím akváriem plným utopenců. Když se proti Anně otevřely dveře, ustoupila dokonce o krok, protože čekala, že z nich vyteče proud zkažené vody s bezvládnými těly cestujících. Otřásla se tím pomyšlením a oběma rukama objala své vypouklé břicho, jako by před ní stálo dítě, kterému je třeba zakrýt oči. Dítě, které nemá vidět tu pojízdnou nádrž s bledými hlavami.
@@ -100,3 +102,5 @@ Přijela tramvaj. Byla poloprázdná, a přece když Anna nastoupila, zvedl se 
 Jedoucí Annu někdo nečekaně nakopl do břicha. Zevnitř. To už koutky jejích úst vzlétly vzhůru. Jako holubi, když začnou zvonit zvony. Anna se nezadržitelně a hlasitě rozesmála. Zvenku.
 
 Smála se na celou tramvaj a dál.
+
+</section>

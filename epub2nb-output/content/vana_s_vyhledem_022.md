@@ -3,6 +3,8 @@ title: "Vana s\_výhledem"
 contentType: prose
 ---
 
+<section>
+
 Vladimír zadržel dech a ponořil se do horké vody s bohatým chomáčem pěny. Pěna mu vždy připomněla pivo a pivo mu pak připomnělo Marka. Ten nechtěný asociační řetězec ho unavoval jako… Unavoval ho stejně jako všechny stereotypy. Měl pocit, vlastně věděl, že celý jeho život je dnes vystavěn z kvádru stereotypu. Nenáviděl tu bezbarvou, okoralou stavbu protkanou usherovskými prasklinami. Byla to architektura podobná spíše karlínskému činžáku než vznosnému zámku, jímž kdysi měla být.
 
 Jediný stereotyp, který kupodivu Vladimíra neskličoval, byla vana plná horké vody s pěnou na hladině.
@@ -131,6 +133,10 @@ Po chvíli vylézal s obrovskou námahou z bezedné vany. Hubené prsty sjíž
 
 Opustil vanu a bosýma mokrýma nohama ťapkal po dlaždicích. Tak nepatrné kroky pro něj a tak naprosto bezvýznamné pro lidstvo…
 
+</section>
+
+<section>
+
 Ráno po sametově černé noci bez kompasu se znova ponořil do vody. Stával se její součástí. Stával se pěnou na její hladině jako ta nejmenší z mořských vil.
 
 Pozoroval dlaždice na stěně celé hodiny, než začaly průsvitnět a vpouštět do chladné místnosti měkké paprsky světla.
@@ -139,6 +145,10 @@ Trvalo několik dnů, než se celá stěna stala průhlednou a jemu se naskytl 
 
 Vladimír hledal dveře. Průchod.
 
+</section>
+
+<section>
+
 „Vladimíre!? Kde vězíš? Jestli se zase koupeš?!“ Vešla do koupelny s bělostnými ručníky přehozenými přes ruku. Uviděla napuštěnou vanu se zbytky zvětralé pěny na hladině. Váhavě a neochotně vnořila ruku do kalné, studené vody a trhla řetízkem. Ten pak přehodila přes chromovou baterii a gumový špunt se rozhoupal jako kyvadlo hodin. Žena si otřela ruku do čistého ručníku a pověsila ho vedle umývadla. Další ručníky a osušku pečlivě uložila do skříňky pod zrcadlem.
 
 Pohlédla kradmo na vyprazdňující se vanu, pak se k ní otočila zády a vyšla z místnosti.
@@ -146,3 +156,5 @@ Pohlédla kradmo na vyprazdňující se vanu, pak se k ní otočila zády a vy
 „Vláďo,“ zavolala nejistě tichým hlasem v obýváku a hned se hlasitěji opravila: „Vladimíre!“
 
 Z koupelny se ozvalo klokotání posledního zbytku odtékající vody. Znělo to téměř jako úlevný vzdech.
+
+</section>

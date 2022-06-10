@@ -3,6 +3,8 @@ title: Krabí hrad
 contentType: prose
 ---
 
+<section>
+
 **(workshop I)**
 
 > _„Ó, jak jsem jenom mohla tak zapomenout!“ zanaříkala Gerda. „Chtěla jsem přece najít Kaye! Nevíte, kde je?“ ptala se růží._
@@ -24,6 +26,10 @@ Bylo ráno 21. srpna 1968…
 
 Protože jsem nemohl mluvit, začal jsem své otázky psát na papír. Od té doby nenacházím tak dobrý důvod k psaní často…
 
+</section>
+
+<section>
+
 _Podvečerní slunce jako roztržitý alchymista provádělo transmutaci zlata v měď. Na pláži, po které kráčel s přibývajícími hodinami, ubývalo lidí. V levém chodidle cítil při chůzi ostrou bolest, kterou způsobovaly zbytky křehkých bodlin mořského ježka – daň za jeho oblibu divokých pláží. Ta bolest nebyla pro něj ale zdaleka jen nepříjemná. Určitá míra masochismu mu občas bývala nezištnou přítelkyní. A komu ne, konec konců? Co je příjemnější než trocha korigovaného utrpení vzbuzujícího politování našich bližních, o sebelítosti nemluvě? Co je pomilováníhodnější než bílá sádra na opálené ruce? Co víc sexy nežli tenký pramínek krve vytékající z nosu po drobné potyčce v baru nebo jen tak…? Co je neodolatelnější než touha pomalu strhnout strup a odhalit jeho růžově palčivé podloží?_
 
 _A stejně tak tomu je i se vztahy. Alespoň on ve svých vztazích určitou dávku sebetrýzně potřeboval nezbytně. Když mu žena či dívka byla jaksi po vůli, bez zubatého ostří odůvodněné nedůvěry, začínal se nudit. Jeho současný vztah byl v tomto ohledu inspirativní, protože jeho partnerka jej naplňovala nejistotou a mírným utrpením pravidelně. Usmál se v té souvislosti větě, kterou mu včera v hotelu společně s porcí svého chraplavého a vyzývavého smíchu řekla: „Já ti přece jsem věrná! A zdaleka ne jen tobě!“_
@@ -36,6 +42,10 @@ _Pak šel dál po pláži, ale vzpomínka na ženu v hotelu ho opustila. Jako b
 
 _Malý chlapec, který ve skutečnosti malým chlapcem nebyl, se nepatrně usmál. Dvě fosilie krabů v bráně jeho pískové stavby do sebe s jemným zachrastěním zapadly klepety. Hrad byl zamčen a v jeho vlhkých stěnách se ocitl další vězeň. Další příběh, o který kohosi oloupil._
 
+</section>
+
+<section>
+
 V jiné nemocnici a v jiné době jsem již jako velmi dospělý po operaci páteře odpovídal mailem na řadu otázek redaktora týdeníku _Instinkt_. Má rekonvalescence se vyznačovala nestřídmou bolestí a úplným zákazem sezení v délce pěti týdnů. Nikdy předtím by mě nenapadlo, jak může být zábavné, nenahraditelné a povznášející obyčejně sedět. Kéž mi odsouzení prominou. V důsledku tohoto omezení bylo třeba osamělý rozhovor s notebookem absolvovat vestoje.
 
 Než jsem se do odpovědí na dvanáct otázek pustil, zavolal jsem onomu redaktorovi, abych se zeptal, zda mám být stručný, nebo jako obvykle, a on mi řekl, že ideální by bylo, aby to celé mělo tak kolem pěti tisíc znaků. Nevěděl jsem, jak informaci o počtu znaků zjistím, ale páteř bolela, tak jsem se neptal a prostě začal psát. Po sedmé otázce, tedy přibližně v předpokládané půlce odpovídání, jsem už sotva stál a rozhodl se zapátrat po počtu sepsaných znaků. Stačilo jen několik celkem logických posloupných kliknutí a v příslušné rubričce jsem našel, co jsem hledal: 5000 znaků, stálo tam psáno. I přes bolest vyfrézovaného (opravdu mi to lékař řekl!) obratle jsem na to číslo dlouho nevěřícně zíral.
@@ -43,6 +53,10 @@ Než jsem se do odpovědí na dvanáct otázek pustil, zavolal jsem onomu redakt
 Pak jsem do hotového textu vepsal jednu tečku a v tabulce se objevilo 5001. Tečku jsem zase smazal. Rozhovor byl ukončen, odevzdán a já si lehl. Zkuste si někdy lehnout bez mezičlánku sedání. Je to dobrodružství.
 
 Stejně jako psaní…
+
+</section>
+
+<section>
 
 _Z moře vyběhl malý pes aportující velký klacek. Jeho pán, starší muž s křečovými žilami a šedivým trsem chlupů na opáleném hrudníku, pokukoval právě po kolemjdoucí marnotratně přitažlivé brunetě. Ta na svém rovněž opáleném hrudníku s velkými ňadry měla tak nepatrnou podprsenku, že by její polovina neposloužila ani jako páska přes vystřelené oko. Pán se otočil, aby ocenil ženinu zadnici, přičemž pocítil trýznivou závist vůči tenké šňůrce, ve kterou se kalhotky plavek vzadu měnily. Nezanedbatelná část tkaničky mizela mezi naolejovanými půlkami a pánovi se pod trsem šedivých chlupů rozbušilo dvakrát bypassované srdce. Vzdalující se žena (s jednou nepatrnou tkaničkou horizontální a druhou, zpola ukrytou, vertikální) vypadala tak trochu jako císařovna předvádějící nové šaty._
 
@@ -82,6 +96,10 @@ _Za jejími zády se ozval křehký a dlouhý zvuk._
 
 _„To zamrzá moře,“ pomyslela si a bez ohlédnutí kráčela dál._
 
+</section>
+
+<section>
+
 Psal jsem scénář k filmovému hororu s názvem _Tma_, a protože už to byla několikátá verze a já se nemohl soustředit, odjel jsem na chalupu v Českém ráji. Máme tam dodnes stůl s kruhem písmen abecedy a číslicemi od jedné do deseti. Na něm jsme s kamarády provozovali okultní praktiky. Doufal jsem, že v tom mediánském kraji, kde jsem jako malý kluk zažil shromáždění čarodějnic ve skalním městě Kalich a kde jsem jednou mezi nocí a ránem zaslechl autentický zpěv vil, půjde vymýšlení strašidelného příběhu samo.
 
 Snědl jsem fazole v tomatové omáčce, zatopil v modrých kachlových kamnech a usedl k dubovému stolu.
@@ -102,6 +120,10 @@ Druhý den jsem měl scénář odevzdat, a tak jsem ještě po návštěvě ps�
 
 Řekne se psaní…
 
+</section>
+
+<section>
+
 _„Zase jí otekly klouby prstů a na levé ruce tlačí snubní prstýnek i tolik let po rozvodu.“ A nohy? Darmo mluvit! Raději nese plážové střevíce v rukou. Písek je tak jemný…_
 
 _Do velkých pestrobarevných autobusů nastupují hluční rakouští turisté a vzájemně se fotí._
@@ -114,8 +136,14 @@ _Možná to tehdy páchlo víc a dnes to víc voní, když už to není pravda.
 
 _Až přijde do pokoje hotelu, musí si ten prst nakrémovat nebo namydlit a prstýnek stáhnout, protože už to doopravdy bolí a je to ošklivě oteklé. Pak prsten uloží do sametové sliznice malé krabičky._
 
+</section>
+
+<section>
+
 Za branou krabího hradu, zamčenou na dvoje ohromná klepeta, čekají vzpomínky na vysvobození ze zakletí. Naše ukradené vzpomínky…
 
 A ukradení psi aportují v nekonečné smyčce ukradené talíře ukradeným milencům. Nesmírným sálem prolétá sem a tam pomalu a nezadržitelně obrovské kyvadlo porostlé chaluhami, sasankami a řasami.
 
 To kyvadlo krájí svět na předtím a potom. Současnost se mění v minulost a jako voda z moře nebo písek z jeho břehů nám navždy protéká mezi prsty.
+
+</section>

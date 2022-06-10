@@ -3,6 +3,8 @@ title: Beat sám
 contentType: prose
 ---
 
+<section>
+
 Poslední kilometry úzkou silnicí lemovanou jeřáby šel už pěšky. Nebylo koho stopnout…
 
 Ticho, kam až ucho doslechlo. Pro člověka z velkého města zkušenost srovnatelná s pocity biedermeierské slečinky vržené do kotle koncertujících Prodigy. Ono ticho může bolet, může být agresivní a třeba i ohlušující. Zejména v téhle šumavsky výstřední podobě. Pro městského člověka by mělo být alespoň trochu zředěné vzdálenou tramvají, zašmudlané jódlováním nočních opilců nebo rozostřené všudypřítomným šuměním pouličních lamp. Čeho je ale moc, toho je pak už příliš. To on dobře ví! Všeho bylo posledních dvacet let moc a z nich těch posledních pár už opravdu příliš!
@@ -47,6 +49,10 @@ Brzy ráno byla krajina kolem domu zabalena do měkké mlhy jako benátské sklo
 
 Ale on spal.
 
+</section>
+
+<section>
+
 První den se zabýval přesně těmi činnostmi, které si předsevzal. Starému obřímu bicyklu prostřednictvím pumpičky navrátil duševní rovnováhu a dojel na něm na nákup do vacovského konzumu. Později, s předstíraným nadšením, vypil hrnek čaje a potom s nefalšovanou radostí štípal dříví, které předtím nasbíral za domem na kraji lesa. Vše probíhalo tak, jako by byl dávným obyvatelem starého domu. Všední činnost i pocity.
 
 Snad byl jen trochu udiven opršelým indiánským totemem a vyhaslým ohništěm, patrně z jiného příběhu.
@@ -63,6 +69,10 @@ Brzy ráno byla krajina kolem voňavá jemným mrholením a na dubu před domem
 
 Ale on spal.
 
+</section>
+
+<section>
+
 Druhý den pršelo. Déšť ho rozladil. Na nákup nejel a dříví neštípal. K ukrácení chvíle si najal služby detektiva Marlowa, ani ten ho však nedokázal zbavit splínu, který se mu svědomitě lepil na paty.
 
 Po nějaké době knihu odložil a přes šumící záclonu deště se díval z okna na šedé odstíny hospodářských budov a velkého dubu. Namazal si chleba paštikou a s odporem usrkával čaj. Později se přistihl, jak systematicky prohledává všechny své kapsy. V té poslední nečekaně objevil krabičku cigaret, kterou patrně zapomněl před odjezdem vyndat… Téměř plnou! Nečekaně…
@@ -74,6 +84,10 @@ Večer, když nepřestávalo pršet, nalil si pořádného panáka rumu a zapil
 Brzy ráno se potichu, tišeji než srnka nebo liška, přikradla od lesa a nahlédla do okna. Nezanechala jedinou stopu, i když měla nohy mokré od trávy. Na té se perlily tisíce a miliony dokonalých kapek vody, v nichž se během své neslyšné cesty přes louku odrazila. Nikdy se ještě k žádnému člověku tak nepřiblížila.
 
 Ale on spal.
+
+</section>
+
+<section>
 
 Třetí den dopoledne prořízl ticho agresivní signál telefonu ozývající se ze šuplíku.
 
@@ -105,12 +119,22 @@ Za deset minut vyšel z lesa na uzounkou silnici lemovanou jeřáby a stopnul 
 
 Neohlédl se…
 
+</section>
+
+<section>
+
 Čtvrtý den bylo krásně a ticho jako na počátku.
 
 Před západem slunce se kolem totemu zvolna začaly trousit postavy z jiných příběhů; po setmění pak propukla oslava. Neskutečné bytosti se smíchem přeskakovaly praskající oheň a kapradí, které lemovalo paseku, se rozzářilo zlatavým přísvitem. V jednu chvíli všechna ta krásná, ošklivá a jinaká stvoření zmlkla a pohlédla mezi stromy, odkud přicházela, téměř se nedotýkajíc země.
 
 Hvězdy proměněné ve svatojánské mušky poletovaly oblohou. Až před rozedněním se zcela ustálily na svých místech, aby vzápětí vybledly. Les byl zase tichý jako zatopené město. Usedlost Plachá do něj hleděla osleplými okny a naslouchala mu ohluchlými zdmi.
 
+</section>
+
+<section>
+
 Pátý den se probudil v pražské posteli s urputnou bolestí hlavy a nahou manželkou kamaráda, jehož agonické chrápání bylo slyšet z koupelny.
 
 Byl sám…
+
+</section>

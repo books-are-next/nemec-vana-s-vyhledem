@@ -3,6 +3,8 @@ title: Anděl
 contentType: prose
 ---
 
+<section>
+
 „Andělé jsou demóde, vole!“
 
 V hospodě U Kotoulu bylo útulno a smrad. Smrad, protože tu bylo pečlivě zahuleno, úzkostlivě nevětráno a z kuchyně to završoval sytý odér přepáleného tuku. Útulno tu bylo z mnoha důvodů, vesměs těžko vyjádřitelných, malostranským geniem loci počínaje a vynikajícím plzeňským pivem, které čepoval zamlklý pan Machek, konče.
@@ -34,6 +36,10 @@ Pavel si mohutně přihnul zvětralého piva. Byl rád, že hrbáč odvedl pozor
 Pavel nad těmi slovy zpozorněl. Číhal na nějaké to moudro staršího kolegy celý večer a nyní nabyl dojmu, že se dočkal. Začínající žurnalista Pavel psal povídky. Postupně zaplňoval jeden ze šuplíků svého stolu popsanými papíry a den po dni váhal, jestli se s touto ambicí svěřit staršímu kolegovi, jehož sžíravé fejetony a břitké povídky obdivoval již během studií. Nyní měl pocit, že právě nastává okamžik předávání cenných zkušeností, který by nebylo dobré prošvihnout.
 
 „Na anděly se vyflákni, tenhle mrzák tě vtáhne do prózy jedna báseň!“ rozchechtal se Demartinni samovolné slovní hříčce. „Něco ti řeknu, mladej,“ zvážněl a důvěrně se k Pavlovi naklonil. „A je to tady,“ řekl si Pavel. „Předávání literátské štafety! Moudro profese začarované v jediné větě jako polévka v kostce maggi.“ Stiskl spoušť diktafonu skrytého v kapse kalhot a zkontroloval mikrofonek vyčuhující z odřeného rukávu. Pohlédl se zájmem na sešlého redakčního guru a chtivě poposedl na židli. Tím vzrušením téměř střízlivý pohlédl Demartinni mu do tváře. Byla stará. „Vypadá, jako by dostal každej den do držky,“ pomyslel si Pavel. „Nebylo by vlastně divu,“ přisadil si v duchu ještě. Nespouštěl oči z růžovofialového rtu, trochu perverzně se lesknoucího ve změti nepoddajných vousů. Byl připraven vstřebat a uchovat po léta tříbené poselství starého novináře. Demartinni, hledící mu krhavě do očí, si odkašlal a řekl: „A už mě nech v klidu chlastat, ty píčusi!“
+
+</section>
+
+<section>
 
 Pavel pronásledoval hrbatého prodavače už do třetího nočního baru a věděl, že tenhle s názvem Green Light je opravdu posledním otevřeným podnikem na celé Malé Straně. Stál ve stínu protějšího domu a právě si poslední sirkou zapaloval předposlední cigaretu. „Vždycky je to takhle a ne obráceně, sakra!“ pomyslel si. „Nesmím zapomenout připálit si tu druhou o první, jinak jsem v loji!“ Z Greenu vyšla partička sjetých cizinců, jako jeden Ital pomočila barokní fasádu domu, protože na záchodě na to pro samé hulení a šňupání nebyl čas. Nyní na gumových nohou (již jednotlivých Italů) odkráčela za bujarého řevu někam ke Karlovu mostu. Uběhlo asi pět šluků, když se otevřely dveře a z nich vyšla povědomá postava.
 
@@ -76,3 +82,5 @@ Pavel zapomněl na nekrotický kufr za zády, na sedm vypitých piv a tisíc pi
 To, co muž doposud skrýval pod koženým brněním a co pod oblečením vytvářelo dojem neforemného hrbu, byla veliká bělostná křídla.
 
 Anděl v protějším okně se protáhl, zaklonil hlavu a slastně zatřepetal pomuchlanými perutěmi. Jako pták, který si v ranním slunci suší křídla zplihlá nočním lijákem.
+
+</section>

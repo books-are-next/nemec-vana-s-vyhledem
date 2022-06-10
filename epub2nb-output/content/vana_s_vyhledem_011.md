@@ -3,6 +3,8 @@ title: "Dřez a\_pěnkavy"
 contentType: prose
 ---
 
+<section>
+
 V bytě bylo chladno, i když rtuť teploměru tomu nenasvědčovala.
 
 Tomáš snídal a Linda myla nádobí od večeře. Odkládala tuto činnost na ráno a Tomášovi tím znepříjemňovala snídání natolik, že se časem propracoval k pouhému srkání horké a hořké kávy vestoje u okna. Linda tento jeho asketismus považovala – a dlužno říct, že celkem oprávněně – za jeden ze způsobů, jakým se snaží vzbudit soucit a lítost. Svůj postoj k této jeho vlastnosti, ať již byla živena jakýmikoliv důvody, vyjadřovala tím, že nádobí myla sice dlouho, ale zřetelně, jak Tomáš říkával s trochu nuceným úsměvem při výjimečných příležitostech, kdy se ocitl mezi kamarády mimo dosah instituce s pracovním názvem _domov_.
@@ -129,6 +131,10 @@ Tomáš zvedl hlavu od dřezu, když k němu dorazil ten strašlivý hluk. V p
 
 Ta marnotratná skleněná smršť, jež se odehrávala za dveřmi ložnice a byla zakončena těžkým žuchnutím, ho přiměla k dřezové repríze.
 
+</section>
+
+<section>
+
 Ve dveřích zachrastil klíč a do bytu vešel Tomáš. Rozsvítil na chodbě a na věšák pověsil mokrým sněhem poprskaný kabát. Na botník odhodil mokrou poštu a v mokrých botách vešel do pokoje, kde rozsvítil všechna světla.
 
 Stejně si počínal i v kuchyni. Z aktovky vyndal předmět zabalený ve zmuchlaném papíru, který nešikovnými pohyby strhal a nechal ležet na podlaze. Obnažil tak skleněnou vázu. Postavil ji na téměř zaplněnou polici a s uspokojením se na ni zadíval. Pak ještě sáhl do tašky pro malý kornout ptačího zobu a nasypal si část zrníček do dlaně.
@@ -136,3 +142,5 @@ Stejně si počínal i v kuchyni. Z aktovky vyndal předmět zabalený ve zmu
 „Pane Peterko! Pavlíku! Slečno Pepi! Plukovníku! Ty taky, Prin­cezno!“ volal Tomáš něžně.
 
 Z různých místností a koutů bytu k němu štěbetavě přilétali drobní ptáčkové a usedali na jeho dlaň, předloktí i na smějící se hlavu. Jedna z nejčilejších pěnkav zobající z jeho ruky ťukla několikrát do starého snubního prstýnku, ve kterém se třpytil nový briliant.
+
+</section>

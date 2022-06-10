@@ -3,17 +3,27 @@ title: Raněná rytířka
 contentType: prose
 ---
 
+<section>
+
 _Dívka:  
 Jdi dál a na jiného dýchej!  
 Jen jdi, ty kostlivče tak hrůzně nahý!  
 Jsem ještě mladá, víš, můj drahý?  
 Pokračuj v cestě a mě se nedotýkej._
 
+</section>
+
+<section>
+
 _Smrt:  
 Podej mi ruku, ty stvoření tak ladné!  
 Jsem přítel a můj dotek nemučí.  
 Poznáš, že byť mám kosti chladné,  
 slastně se usíná v mém náručí!_
+
+</section>
+
+<section>
 
 > Matthias Claudius: _Smrt a dívka_, přeložil Jiří Popel
 
@@ -89,6 +99,10 @@ A pak mu pohlédla do očí. Zářily jako nejvzdálenější hvězdy. Odjinud.
 
 Pak s vypětím posledních sil vytrhla z prsou zlomený šíp. Z hluboké rány se vyřinula krev a na sněhu se rozpila červená skvrna s nepravidelnými okraji. Dívka do ní ulehla jako do obřího květu.
 
+</section>
+
+<section>
+
 V zámku zachrastil klíč a ona se bleskurychle vymrštila z podlahy. Nejdřív popadla máminy rudé šaty a utíkala je pověsit na ramínko do skříně v ložnici rodičů. Než si matka sundala boty a pověsila kabát na věšák, stačila hodit bílou peřinu a polštáře zpátky do postele.
 
 „Ležíš?“ ozvalo se z chodby. Dívka se rozhlédla po místnosti, jestli na něco nezapomněla. Zdá se, že všechno uklidila. Jen mezi oknem a knihovnou stál bez pohnutí on. Dívka skočila do postele, přikryla se až k bradě a zavřela oči.
@@ -96,3 +110,5 @@ V zámku zachrastil klíč a ona se bleskurychle vymrštila z podlahy. Nejdř
 Do pokojíku vešla matka, bez povšimnutí minula stojícího muže a sedla si na kraj pelesti. „Já vím, že nespíš,“ řekla potichu.
 
 Peřiny studily jako sníh.
+
+</section>

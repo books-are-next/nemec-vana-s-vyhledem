@@ -3,6 +3,8 @@ title: Most
 contentType: prose
 ---
 
+<section>
+
 Vltava protéká mezi pilíři starého mostu, jako by to byly prsty kamenného obra. Po mostě přecházejí lidé z břehu na břeh. Pro zábavu na levý, za prací na pravý, do malostranských hospod, na staroměstská rande a tak. To jsou ti místní, většinu ale tvoří návštěvníci rozdělení do mnohačetných konvojů. Jako krysaři, třímající místo píšťaly zavřené deštníky, je vedou průvodci, kteří japonsky, německy, italsky a anglicky donekonečna omílají bláboly o počtu vajec spotřebovaných při stavbě mostu. Mávají deštníky jako mažoretka a vláčí své nevidoucí vojsko přes most. A dav turistů se stává jedinou bytostí, stonožkou cvakající spouštěmi aparátů jako zuby, s očima složenýma z desítek objektivů fotoaparátů a kamer. Většinou uvidí most až z fotek a videa. V Ósace, Lipsku, Římě nebo v Los Angeles.
 
 Vzpomínám, jak kamarád sochař Stefan Milkov hostil ve svém bytě na Kampě americkou studentku. Přiletěla v noci a po příjezdu do dočasného bydliště padla unavená na postel a usnula. Ráno se probudila, vyšla na balkon a pohlédla na most.
@@ -35,6 +37,10 @@ Nyní minul rytíře Bruncvíka s mečem a lvem a konečně vstoupil nad vodn
 
 Uprostřed mostu se Petr zastavil. Na obě strany je stejně daleko, na obě strany je stejně blízko, pomyslel si. Je to jen iluze, že má možnost si vybrat? Má naději přistát u nových břehů, vylodit se jinde? Od řeky zavanul vlhký chlad a Petr se mírně roztřásl zimou.
 
+</section>
+
+<section>
+
 Marie prožila nejhorší den svého života, který byl tečkou za nesnesitelnými měsíci předlouhého roku její služby v rodině radního Pittermanna. Paní Pittermannová se ukázala být tou opravdu nejžlučovitější osobou, se kterou se kdy setkala. Neustálé peskování, výbuchy hysterie, a dokonce i projevy žárlivosti v souvislosti s jejím manželem, váženým radním Starého Města pražského, byly na denním pořádku. Je pravda, že pan radní Pittermann se několikrát pokoušel Marii zadat i jiné úkoly než pouze ty, kterými ji pověřila jeho choť, ale dívka se vždy vcelku rázně ubránila. Pánův mohutný knír, ozdobený po každém jídle drobnými ukázkami menu, jí byl navíc tak odporný, že nesnesla ani pomyšlení na podobné služby nad rámec běžných povinností. Rok v domě Pittermannových byl hořký a zvolna spěl k dramatickému vyhrocení.
 
 Marie si právě cosi polohlasně zpívala při přípravě oběda, když se rozlétly dveře, v nich stanula paní Pittermannová a začala na ni křičet jakási obvinění. Při svém teatrálním výstupu mávala překvapené dívce před očima prázdnou intarzovanou etují. Marie teprve po chvíli pochopila, že je nařčena z krádeže vzácného náhrdelníku paní Pittermannové. Falešné obvinění ji ochromilo a strnula jako socha. Socha Marie v životní velikosti.
@@ -55,6 +61,10 @@ Dlažba ze žulových kostek vedla dívku kolem kostela svatého Salvátora pře
 
 Od řeky zavanul vlhký chlad a Marie se mírně roztřásla zimou.
 
+</section>
+
+<section>
+
 Petr stál uprostřed mostu jako jedenatřicátá socha. Intuice se otočila na kramfleku a nechala ho napospas bezradnosti. Chlapsky malomyslně a sebelítostně přemýšlel nad svým údělem. Hlas mostu se mu zdál nečitelný, nemohl kameni nahmatat pulz, a tak si jím připadal zrazený. Přehodil si přes ramena vyšisovaný župan vzpomínek:
 
 „Péťo! Petříku!“ volá maminka. On se zastaví. Utichnou kroky v písku. Utichnou s nepatrným zpožděním. Otáčí se ke dveřím domu. V otevřených dveřích nad dvěma schody stojí matka, usmívá se a drží něco v ruce. „Svačina!“ Drží v ruce sáček. V sáčku je, jako vždy, chleba s máslem. Dva chleby spojené máslem. Nerozlučně. Až do svého konce na začátku velké přestávky. Přestávka. A jablko. Jablko je solitér a netiskne se k nikomu. Vedle usměvavé matky stojí kokršpaněl. Kokršpaněl se jmenuje Bony. Bony kdysi Petra pokousal, ale pokousal ho nerad. Péťa se rozbíhá po cestě zpět k domu. K domu, v jehož otevřených dveřích nad dvěma schody stojí maminka. Stojí ve dveřích. Písečné zvuky s ním ve chvilce srovnají krok. V koruně smuteční vrby to šustí. Šustí tam nečitelný strach. Péťa se tam nepodívá. Maminka se usmívá a napřahuje ruku s bílým papírovým sáčkem. Ruka je dlouhá. Předlouhá. Nebe je nebývale vysoké a… vzdušné. Nebývale? Vlastně právě bývale.
@@ -65,11 +75,19 @@ Petr, stojící uprostřed mostu, zastavil vzpomínku a vyňal z ní trochu k�
 
 Petr se opatrně nahnul přes kamenné zábradlí mostu a pohlédl do řeky.
 
+</section>
+
+<section>
+
 Marie prošla Staroměstskou věží pod freskou s ledňáčky, kteří tu prozpěvují o nevyzpytatelné lásce mezi králem a lazebnicí. Ten příběh neznala. Nevěděla ani, že kdysi byla brána po deset let ozdobená uťatými hlavami českých pánu. Ledňáčci a mouchy kolem tlejících hlav – _Čechy krásné, Čechy mé_… Neznala a nevěděla mnoho věcí. Ze všech těch nevědění dnes jedno předstihlo ostatní. Nevěděla, co má dělat. A čím déle to nevěděla, tím to nevěděla urputněji.
 
 Chodců na mostě ubývalo. Partie dne byla u konce a na šachovnici zbylo jen několik posledních figur. Muž s dýmkou, hledící na Střelecký ostrov osvětlený lampiony, odkud se ozývala tlumená hudba v třídobém taktu; voják objímající dívku, oba jako v transu hlavy spojené v jedinou; stará žena o berlích, táhnoucí za sebou nohy jako nepoddajnou vlečku. Když míjela Marii, napřáhla k ní navyklým pohybem ruku pokroucenou artrózou. Pak se teprve zadívala na dívčin roztržený rukáv, na domácí ošlapané střevíce a do angorských očí. Žebračka se usmála a ruka podobná kořenu mandragory sjela zpět dolů k berli. Marie nemohla odtrhnout oči od její pergamenové tváře. Byla jí povědomá, byl to důvěrně známý obličej. A pak ji poznala. Byla to její vlastní tvář proměněná roky, zjizvená zklamáním a zvětralá trpkostí. Do nechtěného zrcadla dopadly dvě kapky jako na hladinu vody a obraz vlastního stáří se rozložil v rozšiřujících se kruzích. Stařena se dala do pohybu, který byl spíše hmyzí než lidský.
 
 Marie se opatrně nahnula přes kamennou obrubu mostu a pohlédla do řeky.
+
+</section>
+
+<section>
 
 Petr poprvé ve svém životě (byl tak krátký a dlouhý) zatoužil po konci. Zatoužil po hluboké vodě, jejíž hladina se za ním zatáhne jako sametová opona za ne zrovna vydařeným představením. Potlesk bude znít podobně, jako když dlážděnou chodbu přeběhne astmatik s mokrýma bosýma nohama. A po něm ještě jeden, trochu nemocnější… Žádné klanění, květiny až později. Asi tak za týden. I s věncem od bývalých kolegů. Podvědomý pud sebezáchovy Petrovi nabízel v rychlém sledu různá „pro tohle přece stojí za to žít!?“. Ale všechna trumfová esa padala k jeho nohám jako karty z rukávů začínajícího falešného hráče. Vlastně končícího.
 
@@ -77,11 +95,19 @@ Petr byl typ muže, který než zapálí dům, důkladně v něm uklidí, zalij
 
 Petr se rozhodl skočit.
 
+</section>
+
+<section>
+
 Marie stála uprostřed mostu a v její hlavě přeskakovala jehla na gramodesce s písní _Nevím, co mám dělat_. (Nevím co mám dělat. Nevím co mám dělat…) Domů se vrátit nemůže. Táta by ji přerazil a nemocnou maminku by to snad zabilo. U Pittermannů se objevit také nemůže. Tam jistě čekají, aby ji přede všemi lidmi z ulice odvedli na četnickou stanici. Kam jít, když v celé Praze vůbec nikoho nezná? „Ježíšimaria, oni to našim napíšou! Ne, hůř – přijedou tam četníci a budou mě hledat!“ šeptala překotně pískovcovému zpovědníku a začínala propadat čirému zoufalství.
 
 Rozhlédla se kolem a zjistila, že je na mostě sama. Kuřák nehleděl k nyní už ztichlému a temnému ostrovu, voják a jeho dívka nebyli v objetí, chromá žebračka odtáhla břemeno svých mrtvých nohou někam na břeh. Všichni byli pryč, jinde, nebyli… Most se tvářil netečně. Jako nějaká stavba spojující dva břehy. Voda pod ním odnášela nevratné kusy noci.
 
 Marie se rozhodla skočit.
+
+</section>
+
+<section>
 
 Bosý Petr, připravený ke skoku, pocítil náhle závan něčeho, co nedokázal vstřebat ani pojmenovat. Jako když začátkem dubna vyjdete na ulici a ve vzduchu rozeznáte tenkou, téměř nepatrnou vůni. Vůni jara, které ani nestojí ve dveřích, ale někde za nimi. Které je zatím pouze pocit. Které vlastně není. Byl to jen závan, co teď Petr vnímal, a přece byl rozhodující. Zpozorněl.
 
@@ -91,11 +117,19 @@ Petr dlouho stál na svém mostě, poslouchal a díval se.
 
 Když na východě začala blednout tma, oblékl si ponožky, obul boty a vydal se rovnoměrnou chůzí ke břehu. Proti němu kráčel rybář a zhášel lampy. A v tom pro město tak nepředstavitelném klidu se rozezněly desítky zvonů zvoucích Pražany na ranní bohoslužbu.
 
+</section>
+
+<section>
+
 Marie byla oslněna světly, která změnila noc v cosi jako den. Její záměr skočit se stal jen vzpomínkou na slabost. Stála a poslouchala tisíce zvláštních zvuků, divoký rytmus noci. Praha jí připadala krásná a děsivá jako lokomotiva. Marie byla trochu ohlušená a oslepená extází města proměněného před jejíma očima.
 
 Čekala dlouho a pak už věděla, že je provždy součástí téhle přítomnosti. Pohladila jeden z kamenných kvádrů. Cosi jako den se zvolna měnilo v opravdový. Marii nahlas zakručelo v břiše. „Mám hlad,“ řekla vesele mostu a vykročila rázně ke břehu.
 
 Taxíky podobné pestrobarevným ještěrkám odvážely do postelí pozdní opilce. Město hučelo, páchlo a blikalo jako obří orchestrion.
+
+</section>
+
+<section>
 
 Most osiřel. Za pár hodin ho opanuje sebranka amatérských fotografů, malířů, hudebníků a profesionálních zlodějů. A pak ho zalehne dav cizokrajných návštěvníků. Most bude atrakcí, stane se gotickou příšerou Lochness, která na svém hřbetě s trpělivostí starého bernardýna vozí tisíce návštěvníků.
 
@@ -104,3 +138,5 @@ Vzpomínám si, jak jednou v mrazivém zimním odpoledni několik párů profes
 Potom hudba dohrála a tanečníci se rozcházeli na různé břehy. A večer někteří odletěli letadly a jiní odjeli autobusy do různých zemí nebo seděli po hospodách jako my. A někteří seděli úplně sami za zamčenými dveřmi. Ale všichni pořád tak trochu tančili tango.
 
 A Vltava protékala mezi pilíři starého mostu, jako by to byly prsty kamenného obra.
+
+</section>

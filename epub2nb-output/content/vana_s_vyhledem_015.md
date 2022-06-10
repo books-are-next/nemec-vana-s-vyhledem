@@ -3,6 +3,8 @@ title: Lázně Rotstein
 contentType: prose
 ---
 
+<section>
+
 Les se přede mnou náhle rozestoupil jako moře před Mojžíšovou holí. Ta hůl byl stejně jenom spouštěcí mechanismus boží vůle, ne? Něco jako dálkový ovladač. Nebo byl tím dálkovým ovladačem Mojžíš? Bůh ví…
 
 Les se přede mnou rozestoupil jako těžká sametová opona před těžkým divadelním kusem. „Nejtěžší kus padl,“ říkávala maminka. Myslela tím otce, když se šel po obědě natáhnout na gauč.
@@ -116,3 +118,5 @@ Díval jsem se dlouhé minuty do neživé vody v nádrži, když se událo něc
 Hřbitov byl liduprázdný. Podvečerní slunce se s námahou prodralo mraky a stíny náhrobků přikryly mrtvé. Štíhlá bruneta středních let, která během obřadu stála stranou, počkala, až odejde hrstka smutečních hostů s triem rozladěných hudebníků, a pak přistoupila ke hrobu s čerstvými květinami. Na kamennou obrubu položila jednu růži. Z černého skla pomníku se zašlým nápisem Familie Bloch zářilo novotou jméno Walter Bloch. Chryzantémy voněly podzimem. A podzim rozkladem. „On už to necítí,“ pomyslela si. „I když? Bůh ví…“
 
 Po chvíli prošla mezi nehonosnými náhrobky s převážně německými jmény a potom vykloubenou brankou ven na cestu. Prašná pěšina se ubírala vzhůru k místům, kde stávala chata Buklava, než v pětadevadesátém vyhořela. Usmála se smutně a tenkými prsty přidržela u sebe okraje límce košile, protože nadcházející podvečer s sebou přinášel závan chladu. Než došla k autu, téměř se setmělo. Ve vesnici se rozsvěcela světla oken. Jako oči probouzejících se zvířat…
+
+</section>

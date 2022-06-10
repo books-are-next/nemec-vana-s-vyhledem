@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Vana s výhledem](https://search.mlp.cz/cz/titul/vana-s-vyhledem/2682529/#/) tak, jak bylo vydáno nakladatelstvím XYZ v Praze v roce 2008. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 ![](../Images/MZK_logo_tyrkys_transparent.jpg)
@@ -19,4 +21,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 29. 10. 2021.
 
+</section>
+
+<section>
+
 ![](../Images/image002.jpg)
+
+</section>
