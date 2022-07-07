@@ -5,7 +5,15 @@ contentType: prose
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 **(workshop III)**
+
+</div>
+
+</div>
 
 </section>
 

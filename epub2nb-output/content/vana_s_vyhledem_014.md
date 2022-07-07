@@ -5,7 +5,15 @@ contentType: prose
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 **(workshop I)**
+
+</div>
+
+</div>
 
 > _„Ó, jak jsem jenom mohla tak zapomenout!“ zanaříkala Gerda. „Chtěla jsem přece najít Kaye! Nevíte, kde je?“ ptala se růží._
 
