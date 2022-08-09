@@ -1,1 +1,581 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "title": "Vana s výhledem",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Martin Němec",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-11-04T00:00:00.000Z",
+      "contentType": "prose",
+      "edition": "beletrie",
+      "publisherShort": "mkp"
+    },
+    "elements": {
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
+      "subtitle": "",
+      "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
+      "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
+      "h4": "MLP.uroven5.nadpis",
+      "hr": "MLP.hvezdicky\ne.bookhvezdickystred",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
+      "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
+      "figure": "MLP.obrazky.*\nmlpobrazky",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*",
+      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "listType": "plain",
+        "children": [
+          {
+            "filename": "vana_s_vyhledem_001.md",
+            "xhtml": "vana_s_vyhledem_001.xhtml",
+            "id": 0,
+            "role": "cover",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "vana_s_vyhledem_002.md",
+            "xhtml": "vana_s_vyhledem_002.xhtml",
+            "id": 1,
+            "role": "promo",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "vana_s_vyhledem_003.md",
+            "xhtml": "vana_s_vyhledem_003.xhtml",
+            "id": 2,
+            "role": "about",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "vana_s_vyhledem_004.md",
+            "xhtml": "vana_s_vyhledem_004.xhtml",
+            "id": 3,
+            "role": "about",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "vana_s_vyhledem_005.md",
+            "xhtml": "vana_s_vyhledem_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Věnování"
+          },
+          {
+            "filename": "vana_s_vyhledem_006.md",
+            "xhtml": "vana_s_vyhledem_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Poděkování"
+          },
+          {
+            "filename": "vana_s_vyhledem_007.md",
+            "xhtml": "vana_s_vyhledem_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Citát"
+          },
+          {
+            "filename": "vana_s_vyhledem_008.md",
+            "xhtml": "vana_s_vyhledem_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Anděl"
+          },
+          {
+            "filename": "vana_s_vyhledem_009.md",
+            "xhtml": "vana_s_vyhledem_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Anna samodruhá"
+          },
+          {
+            "filename": "vana_s_vyhledem_010.md",
+            "xhtml": "vana_s_vyhledem_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Beat sám"
+          },
+          {
+            "filename": "vana_s_vyhledem_011.md",
+            "xhtml": "vana_s_vyhledem_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Dřez a pěnkavy"
+          },
+          {
+            "filename": "vana_s_vyhledem_012.md",
+            "xhtml": "vana_s_vyhledem_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Dveře"
+          },
+          {
+            "filename": "vana_s_vyhledem_013.md",
+            "xhtml": "vana_s_vyhledem_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Hřích"
+          },
+          {
+            "filename": "vana_s_vyhledem_014.md",
+            "xhtml": "vana_s_vyhledem_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Krabí hrad"
+          },
+          {
+            "filename": "vana_s_vyhledem_015.md",
+            "xhtml": "vana_s_vyhledem_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Lázně Rotstein"
+          },
+          {
+            "filename": "vana_s_vyhledem_016.md",
+            "xhtml": "vana_s_vyhledem_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Most"
+          },
+          {
+            "filename": "vana_s_vyhledem_017.md",
+            "xhtml": "vana_s_vyhledem_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "O krvácejícím stromku a barborkách"
+          },
+          {
+            "filename": "vana_s_vyhledem_018.md",
+            "xhtml": "vana_s_vyhledem_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Raněná rytířka"
+          },
+          {
+            "filename": "vana_s_vyhledem_019.md",
+            "xhtml": "vana_s_vyhledem_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Rock and roller"
+          },
+          {
+            "filename": "vana_s_vyhledem_020.md",
+            "xhtml": "vana_s_vyhledem_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Salon v ulici des Moulins"
+          },
+          {
+            "filename": "vana_s_vyhledem_021.md",
+            "xhtml": "vana_s_vyhledem_021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Sulfur s. r. o."
+          },
+          {
+            "filename": "vana_s_vyhledem_022.md",
+            "xhtml": "vana_s_vyhledem_022.xhtml",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Vana s výhledem"
+          },
+          {
+            "filename": "vana_s_vyhledem_023.md",
+            "xhtml": "vana_s_vyhledem_023.xhtml",
+            "id": 22,
+            "role": "about",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
+  "epub": {
+    "metadata": {
+      "title": "Vana s výhledem",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Martin Němec",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-11-04T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vana_s_vyhledem_001.md",
+        "xhtml": "vana_s_vyhledem_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vana_s_vyhledem_002.md",
+        "xhtml": "vana_s_vyhledem_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vana_s_vyhledem_003.md",
+        "xhtml": "vana_s_vyhledem_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vana_s_vyhledem_004.md",
+        "xhtml": "vana_s_vyhledem_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vana_s_vyhledem_005.md",
+        "xhtml": "vana_s_vyhledem_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vana_s_vyhledem_006.md",
+        "xhtml": "vana_s_vyhledem_006.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vana_s_vyhledem_007.md",
+        "xhtml": "vana_s_vyhledem_007.xhtml"
+      },
+      {
+        "titleSuggest": "Anděl",
+        "subtitleSuggest": "",
+        "filename": "vana_s_vyhledem_008.md",
+        "xhtml": "vana_s_vyhledem_008.xhtml"
+      },
+      {
+        "titleSuggest": "Anna samodruhá",
+        "subtitleSuggest": "",
+        "filename": "vana_s_vyhledem_009.md",
+        "xhtml": "vana_s_vyhledem_009.xhtml"
+      },
+      {
+        "titleSuggest": "Beat sám",
+        "subtitleSuggest": "",
+        "filename": "vana_s_vyhledem_010.md",
+        "xhtml": "vana_s_vyhledem_010.xhtml"
+      },
+      {
+        "titleSuggest": "Dřez a pěnkavy",
+        "subtitleSuggest": "",
+        "filename": "vana_s_vyhledem_011.md",
+        "xhtml": "vana_s_vyhledem_011.xhtml"
+      },
+      {
+        "titleSuggest": "Dveře",
+        "subtitleSuggest": "",
+        "filename": "vana_s_vyhledem_012.md",
+        "xhtml": "vana_s_vyhledem_012.xhtml"
+      },
+      {
+        "titleSuggest": "Hřích",
+        "subtitleSuggest": "",
+        "filename": "vana_s_vyhledem_013.md",
+        "xhtml": "vana_s_vyhledem_013.xhtml"
+      },
+      {
+        "titleSuggest": "Krabí hrad",
+        "subtitleSuggest": "",
+        "filename": "vana_s_vyhledem_014.md",
+        "xhtml": "vana_s_vyhledem_014.xhtml"
+      },
+      {
+        "titleSuggest": "Lázně Rotstein",
+        "subtitleSuggest": "",
+        "filename": "vana_s_vyhledem_015.md",
+        "xhtml": "vana_s_vyhledem_015.xhtml"
+      },
+      {
+        "titleSuggest": "Most",
+        "subtitleSuggest": "",
+        "filename": "vana_s_vyhledem_016.md",
+        "xhtml": "vana_s_vyhledem_016.xhtml"
+      },
+      {
+        "titleSuggest": "O krvácejícím stromku a barborkách",
+        "subtitleSuggest": "",
+        "filename": "vana_s_vyhledem_017.md",
+        "xhtml": "vana_s_vyhledem_017.xhtml"
+      },
+      {
+        "titleSuggest": "Raněná rytířka",
+        "subtitleSuggest": "",
+        "filename": "vana_s_vyhledem_018.md",
+        "xhtml": "vana_s_vyhledem_018.xhtml"
+      },
+      {
+        "titleSuggest": "Rock and roller",
+        "subtitleSuggest": "",
+        "filename": "vana_s_vyhledem_019.md",
+        "xhtml": "vana_s_vyhledem_019.xhtml"
+      },
+      {
+        "titleSuggest": "Salon v ulici des Moulins",
+        "subtitleSuggest": "",
+        "filename": "vana_s_vyhledem_020.md",
+        "xhtml": "vana_s_vyhledem_020.xhtml"
+      },
+      {
+        "titleSuggest": "Sulfur s\\. r\\. o\\.",
+        "subtitleSuggest": "",
+        "filename": "vana_s_vyhledem_021.md",
+        "xhtml": "vana_s_vyhledem_021.xhtml"
+      },
+      {
+        "titleSuggest": "Vana s výhledem",
+        "subtitleSuggest": "",
+        "filename": "vana_s_vyhledem_022.md",
+        "xhtml": "vana_s_vyhledem_022.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "vana_s_vyhledem_023.md",
+        "xhtml": "vana_s_vyhledem_023.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/MZK_logo_tyrkys_transparent.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_vana_s_vyhledem.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "CharOverride-1",
+      "HorizontalRule-1",
+      "Hyperlink",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_dopis",
+      "MLP_dopis_bez1radku",
+      "MLP_dopis_bez1radku_-I-",
+      "MLP_dopis_podpis",
+      "MLP_dopis_podpis_-I-",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_paragraf",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_pozn_pod_carou",
+      "MLP_text",
+      "MLP_text_-12-0-",
+      "MLP_text_-I-",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_text_bez1radku_-I-_-12-0-",
+      "MLP_text_uprostred",
+      "MLP_text_uprostred_-B-",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_uroven2_kapitola",
+      "MLP_uroven4_nadpis",
+      "MLP_venovani",
+      "MLP_verse_-I-_-0-12-",
+      "MLP_znak_kurziva_11b",
+      "MLP_znak_tucne_11b",
+      "ParaOverride-1",
+      "ParaOverride-10",
+      "ParaOverride-11",
+      "ParaOverride-12",
+      "ParaOverride-3",
+      "ParaOverride-4",
+      "ParaOverride-5",
+      "ParaOverride-6",
+      "ParaOverride-7",
+      "ParaOverride-8",
+      "ParaOverride-9",
+      "_idFootnote",
+      "_idFootnoteAnchor",
+      "_idFootnoteLink",
+      "_idFootnotes",
+      "_idGenCharOverride-1",
+      "_idGenColorInherit",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectAttribute-3",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "nemec-vana-s-vyhledem"
+    },
+    "generatedAt": 1658413634493
+  }
+}
