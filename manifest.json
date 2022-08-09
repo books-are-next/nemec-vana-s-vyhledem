@@ -1,0 +1,445 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Vana s výhledem",
+  "author": "Martin Němec",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "nemec-vana-s-vyhledem-4d5ecbc",
+  "revision": "4d5ecbc",
+  "readingOrder": [
+    "promo.html",
+    "vana_s_vyhledem_005.html",
+    "vana_s_vyhledem_006.html",
+    "vana_s_vyhledem_007.html",
+    "vana_s_vyhledem_008.html",
+    "vana_s_vyhledem_009.html",
+    "vana_s_vyhledem_010.html",
+    "vana_s_vyhledem_011.html",
+    "vana_s_vyhledem_012.html",
+    "vana_s_vyhledem_013.html",
+    "vana_s_vyhledem_014.html",
+    "vana_s_vyhledem_015.html",
+    "vana_s_vyhledem_016.html",
+    "vana_s_vyhledem_017.html",
+    "vana_s_vyhledem_018.html",
+    "vana_s_vyhledem_019.html",
+    "vana_s_vyhledem_020.html",
+    "vana_s_vyhledem_021.html",
+    "vana_s_vyhledem_022.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Tue Aug 09 2022 07:37:40 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1660030660099
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "vana_s_vyhledem_005.html",
+      "toc": []
+    },
+    {
+      "title": "Vana s výhledem",
+      "file": "vana_s_vyhledem_005.html",
+      "words": 9,
+      "chars": 50,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "vana_s_vyhledem_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vana s výhledem",
+      "file": "vana_s_vyhledem_006.html",
+      "words": 59,
+      "chars": 374,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 2,
+      "prev": "vana_s_vyhledem_005.html",
+      "next": "vana_s_vyhledem_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vana s výhledem",
+      "file": "vana_s_vyhledem_007.html",
+      "words": 53,
+      "chars": 286,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 3,
+      "prev": "vana_s_vyhledem_006.html",
+      "next": "vana_s_vyhledem_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Anděl",
+      "file": "vana_s_vyhledem_008.html",
+      "words": 2314,
+      "chars": 14811,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 4,
+      "prev": "vana_s_vyhledem_007.html",
+      "next": "vana_s_vyhledem_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Anděl",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Anna samodruhá",
+      "file": "vana_s_vyhledem_009.html",
+      "words": 2708,
+      "chars": 16653,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 5,
+      "prev": "vana_s_vyhledem_008.html",
+      "next": "vana_s_vyhledem_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Anna samodruhá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Beat sám",
+      "file": "vana_s_vyhledem_010.html",
+      "words": 1639,
+      "chars": 10023,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 6,
+      "prev": "vana_s_vyhledem_009.html",
+      "next": "vana_s_vyhledem_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Beat sám",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dřez a pěnkavy",
+      "file": "vana_s_vyhledem_011.html",
+      "words": 3454,
+      "chars": 22186,
+      "ideas": 68,
+      "role": "chapter",
+      "order": 7,
+      "prev": "vana_s_vyhledem_010.html",
+      "next": "vana_s_vyhledem_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dřez a pěnkavy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dveře",
+      "file": "vana_s_vyhledem_012.html",
+      "words": 3126,
+      "chars": 19080,
+      "ideas": 59,
+      "role": "chapter",
+      "order": 8,
+      "prev": "vana_s_vyhledem_011.html",
+      "next": "vana_s_vyhledem_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dveře",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hřích",
+      "file": "vana_s_vyhledem_013.html",
+      "words": 1982,
+      "chars": 11856,
+      "ideas": 111,
+      "role": "chapter",
+      "order": 9,
+      "prev": "vana_s_vyhledem_012.html",
+      "next": "vana_s_vyhledem_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hřích",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Krabí hrad",
+      "file": "vana_s_vyhledem_014.html",
+      "words": 2628,
+      "chars": 16169,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 10,
+      "prev": "vana_s_vyhledem_013.html",
+      "next": "vana_s_vyhledem_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Krabí hrad",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lázně Rotstein",
+      "file": "vana_s_vyhledem_015.html",
+      "words": 3134,
+      "chars": 18941,
+      "ideas": 58,
+      "role": "chapter",
+      "order": 11,
+      "prev": "vana_s_vyhledem_014.html",
+      "next": "vana_s_vyhledem_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lázně Rotstein",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Most",
+      "file": "vana_s_vyhledem_016.html",
+      "words": 2897,
+      "chars": 18141,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 12,
+      "prev": "vana_s_vyhledem_015.html",
+      "next": "vana_s_vyhledem_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Most",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O krvácejícím stromku a barborkách",
+      "file": "vana_s_vyhledem_017.html",
+      "words": 2940,
+      "chars": 17650,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 13,
+      "prev": "vana_s_vyhledem_016.html",
+      "next": "vana_s_vyhledem_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O krvácejícím stromku a barborkách",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Raněná rytířka",
+      "file": "vana_s_vyhledem_018.html",
+      "words": 1037,
+      "chars": 5980,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 14,
+      "prev": "vana_s_vyhledem_017.html",
+      "next": "vana_s_vyhledem_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Raněná rytířka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rock and roller",
+      "file": "vana_s_vyhledem_019.html",
+      "words": 2749,
+      "chars": 17570,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 15,
+      "prev": "vana_s_vyhledem_018.html",
+      "next": "vana_s_vyhledem_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rock and roller",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Salon v ulici des Moulins",
+      "file": "vana_s_vyhledem_020.html",
+      "words": 3242,
+      "chars": 19543,
+      "ideas": 85,
+      "role": "chapter",
+      "order": 16,
+      "prev": "vana_s_vyhledem_019.html",
+      "next": "vana_s_vyhledem_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Salon v ulici des Moulins",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sulfur s. r. o.",
+      "file": "vana_s_vyhledem_021.html",
+      "words": 1905,
+      "chars": 11596,
+      "ideas": 65,
+      "role": "chapter",
+      "order": 17,
+      "prev": "vana_s_vyhledem_020.html",
+      "next": "vana_s_vyhledem_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sulfur s. r. o.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vana s výhledem",
+      "file": "vana_s_vyhledem_022.html",
+      "words": 3157,
+      "chars": 19257,
+      "ideas": 73,
+      "role": "chapter",
+      "order": 18,
+      "prev": "vana_s_vyhledem_021.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vana s výhledem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 143,
+      "chars": 900,
+      "ideas": 17,
+      "role": "about",
+      "order": null,
+      "prev": "vana_s_vyhledem_022.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 39183,
+      "chars": 241104,
+      "ideas": 969
+    },
+    "chapters": {
+      "words": 39033,
+      "chars": 240166,
+      "ideas": 948
+    }
+  }
+}
