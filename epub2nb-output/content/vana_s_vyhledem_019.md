@@ -177,7 +177,7 @@ Byl hezký letní den.
 
 Nakladatel Dmitrij Konstantinovič Ostoprudin dočetl rukopis. Seděl rozvalený ve starobylém koženém křesle (opravdu koženém, z nějakého zabitého zvířete) za stolem o chlup menším než větší taneční parket. Pak pohlédl na spisovatele Engelmilera udiven, jako kdyby pro samé čtení zapomněl na jeho přítomnost v místnosti. Ten doposud mlčky a v pozoru čekal u dveří. Nejdřív se pokoušel vypadat jako spisovatel, po deseti minutách nevypadat jako liftboy a po další čtvrthodině nebýt vidět vůbec. Nakladatel vážně pokýval hlavou a smutně vzdychl. Hrábl do velké krabice pro obrovský doutník a pečlivě odřízl jeho špičku, která by stačila průměrnému kuřákovi k hodinové kratochvíli. Pak ten kubánský Zeppelin opatrně nahřál nad stolním zapalovačem a konečně si zapálil. Spisovatel bezvýznamně zakašlal. Ostoprudin vypustil z úst nekonečný dým.
 
-„Присаживайтесь, пожалуйста!“[1](./resources/undefined) řekl a tím velikým doutníkem ukázal na malou židli.
+„Присаживайтесь, пожалуйста!“[^1] řekl a tím velikým doutníkem ukázal na malou židli.
 
 Engelmiler usedl. Nakladatel na něj hleděl rybíma očima s takovou lítostí, že to působilo opravdu směšně. Zdaleka ale ne tolik, aby se autor rozesmál.
 
@@ -198,7 +198,5 @@ Engelmiler se zazubil a znovu si odkašlal, jako by chtěl něco říct. Ostopr
 Engelmiler se dlouze zadíval z okna, pak si protáhl ztuhlá záda a vrátil se k psaní.
 
 * * *
-
-_[1](./resources/undefined) (rusky) Posaďte se, prosím! … No, tak co mám s vámi dělat, chlapče nešťastný? … Není to žádný Hemingway, a už vůbec ne Čechov: … Originálního je na tom prd a zápletka s postavami, které zabijí svého autora, je nepůvodní až běda. … A ten nakladatel Koriktwyn? … To má být co, hochu nešťastný? Revolta? … Jo, jo. Vy mě trápíte! Jste ale talentovaný spisovatel, a tak vám dám ještě jednu šanci…_
-
+[^1]: (rusky) Posaďte se, prosím! … No, tak co mám s vámi dělat, chlapče nešťastný? … Není to žádný Hemingway, a už vůbec ne Čechov: … Originálního je na tom prd a zápletka s postavami, které zabijí svého autora, je nepůvodní až běda. … A ten nakladatel Koriktwyn? … To má být co, hochu nešťastný? Revolta? … Jo, jo. Vy mě trápíte! Jste ale talentovaný spisovatel, a tak vám dám ještě jednu šanci…
 </section>
