@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "nemec-vana-s-vyhledem-0e946f1",
-  "revision": "0e946f1",
+  "identifier": "nemec-vana-s-vyhledem-842f2ff",
+  "revision": "842f2ff",
   "readingOrder": [
     "promo.html",
     "vana_s_vyhledem_005.html",
@@ -33,8 +33,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:29:49 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664486989699
+    "date": "Sat Oct 01 2022 16:00:14 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664640014039
   },
   "documents": [
     {
