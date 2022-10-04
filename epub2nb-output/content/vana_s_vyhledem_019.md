@@ -198,5 +198,7 @@ Engelmiler se zazubil a znovu si odkašlal, jako by chtěl něco říct. Ostopr
 Engelmiler se dlouze zadíval z okna, pak si protáhl ztuhlá záda a vrátil se k psaní.
 
 * * *
+
 [^1]: (rusky) Posaďte se, prosím! … No, tak co mám s vámi dělat, chlapče nešťastný? … Není to žádný Hemingway, a už vůbec ne Čechov: … Originálního je na tom prd a zápletka s postavami, které zabijí svého autora, je nepůvodní až běda. … A ten nakladatel Koriktwyn? … To má být co, hochu nešťastný? Revolta? … Jo, jo. Vy mě trápíte! Jste ale talentovaný spisovatel, a tak vám dám ještě jednu šanci…
+
 </section>
