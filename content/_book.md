@@ -13,6 +13,7 @@ meta:
   contentType: prose
   edition: beletrie
   publisherShort: mkp
+  isbn: 978-80-274-2792-5
 readingOrder:
   - promo.html
   - vana_s_vyhledem_005.html
