@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "nemec-vana-s-vyhledem-e2cd29e",
-  "revision": "e2cd29e",
+  "identifier": "nemec-vana-s-vyhledem-3625956",
+  "revision": "3625956",
   "readingOrder": [
     "promo.html",
     "vana_s_vyhledem_005.html",
@@ -33,8 +33,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 15:44:09 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665416649582
+    "date": "Fri Oct 14 2022 18:19:19 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665771559116
   },
   "documents": [
     {
@@ -412,9 +412,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 140,
-      "chars": 902,
-      "ideas": 14,
+      "words": 144,
+      "chars": 939,
+      "ideas": 15,
       "role": "about",
       "order": null,
       "prev": "vana_s_vyhledem_022.html",
@@ -432,9 +432,9 @@
   ],
   "totals": {
     "all": {
-      "words": 39180,
-      "chars": 241107,
-      "ideas": 966
+      "words": 39184,
+      "chars": 241144,
+      "ideas": 967
     },
     "chapters": {
       "words": 39033,

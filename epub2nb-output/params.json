@@ -9,7 +9,8 @@
       "modified": "2021-11-04T00:00:00.000Z",
       "contentType": "prose",
       "edition": "beletrie",
-      "publisherShort": "mkp"
+      "publisherShort": "mkp",
+      "isbn": "978-80-274-2792-5"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -96,8 +97,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Věnování"
+            "title": "Věnování",
+            "children": []
           },
           {
             "filename": "vana_s_vyhledem_006.md",
@@ -109,8 +110,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Poděkování"
+            "title": "Poděkování",
+            "children": []
           },
           {
             "filename": "vana_s_vyhledem_007.md",
@@ -122,8 +123,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Citát"
+            "title": "Citát",
+            "children": []
           },
           {
             "filename": "vana_s_vyhledem_008.md",
@@ -135,8 +136,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Anděl"
+            "title": "Anděl",
+            "children": []
           },
           {
             "filename": "vana_s_vyhledem_009.md",
@@ -148,8 +149,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Anna samodruhá"
+            "title": "Anna samodruhá",
+            "children": []
           },
           {
             "filename": "vana_s_vyhledem_010.md",
@@ -161,8 +162,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Beat sám"
+            "title": "Beat sám",
+            "children": []
           },
           {
             "filename": "vana_s_vyhledem_011.md",
@@ -174,8 +175,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Dřez a pěnkavy"
+            "title": "Dřez a pěnkavy",
+            "children": []
           },
           {
             "filename": "vana_s_vyhledem_012.md",
@@ -187,8 +188,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Dveře"
+            "title": "Dveře",
+            "children": []
           },
           {
             "filename": "vana_s_vyhledem_013.md",
@@ -200,8 +201,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Hřích"
+            "title": "Hřích",
+            "children": []
           },
           {
             "filename": "vana_s_vyhledem_014.md",
@@ -213,8 +214,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Krabí hrad"
+            "title": "Krabí hrad",
+            "children": []
           },
           {
             "filename": "vana_s_vyhledem_015.md",
@@ -226,8 +227,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Lázně Rotstein"
+            "title": "Lázně Rotstein",
+            "children": []
           },
           {
             "filename": "vana_s_vyhledem_016.md",
@@ -239,8 +240,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Most"
+            "title": "Most",
+            "children": []
           },
           {
             "filename": "vana_s_vyhledem_017.md",
@@ -252,8 +253,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "O krvácejícím stromku a barborkách"
+            "title": "O krvácejícím stromku a barborkách",
+            "children": []
           },
           {
             "filename": "vana_s_vyhledem_018.md",
@@ -265,8 +266,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Raněná rytířka"
+            "title": "Raněná rytířka",
+            "children": []
           },
           {
             "filename": "vana_s_vyhledem_019.md",
@@ -278,8 +279,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Rock and roller"
+            "title": "Rock and roller",
+            "children": []
           },
           {
             "filename": "vana_s_vyhledem_020.md",
@@ -291,8 +292,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Salon v ulici des Moulins"
+            "title": "Salon v ulici des Moulins",
+            "children": []
           },
           {
             "filename": "vana_s_vyhledem_021.md",
@@ -304,8 +305,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Sulfur s. r. o."
+            "title": "Sulfur s. r. o.",
+            "children": []
           },
           {
             "filename": "vana_s_vyhledem_022.md",
@@ -317,8 +318,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Vana s výhledem"
+            "title": "Vana s výhledem",
+            "children": []
           },
           {
             "filename": "vana_s_vyhledem_023.md",
@@ -575,6 +576,6 @@
       "user": "books-are-next",
       "repo": "nemec-vana-s-vyhledem"
     },
-    "generatedAt": 1665415631324
+    "generatedAt": 1665771474991
   }
 }
